@@ -1,0 +1,5364 @@
+# generated using pymatgen
+data_ID_0
+_symmetry_space_group_name_H-M   P6_3cm
+_cell_length_a   4.73102608
+_cell_length_b   4.73102608
+_cell_length_c   17.77763883
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   185
+_chemical_formula_structural   CuAu
+_cell_volume   344.60009592
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+  7  'y, x, z'
+  8  'x, x-y, z+1/2'
+  9  'x-y, -y, z'
+  10  '-y, -x, z+1/2'
+  11  '-x, -x+y, z'
+  12  '-x+y, y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.33333333  0.66666667  0.27556817  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.03350251  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.26605468  1
+  Au  Au3  6  0.00000000  0.33918740  0.15140947  1
+  Au  Au4  2  0.00000000  0.00000000  0.39780866  1
+# generated using pymatgen
+data_ID_1
+_symmetry_space_group_name_H-M   Ama2
+_cell_length_a   5.33476772
+_cell_length_b   14.14348267
+_cell_length_c   6.47030135
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   40
+_chemical_formula_structural   CuAu
+_cell_volume   488.19843829
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y, z'
+  4  'x+1/2, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00576479  0.16403405  0.23873319  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.17725419  1
+  Cu  Cu2  4  0.25000000  0.09165354  0.91561362  1
+  Au  Au3  4  0.25000000  0.19243696  0.58690816  1
+  Au  Au4  4  0.25000000  0.29204485  0.05240051  1
+  Au  Au5  4  0.25000000  0.39272934  0.40898998  1
+  Au  Au6  4  0.25000000  0.49330197  0.03402610  1
+# generated using pymatgen
+data_ID_2
+_symmetry_space_group_name_H-M   P-3m1
+_cell_length_a   8.27794067
+_cell_length_b   8.27794067
+_cell_length_c   4.88945233
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   164
+_chemical_formula_structural   CuAu
+_cell_volume   290.15861267
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'y, x, -z'
+  8  '-y, -x, z'
+  9  'x-y, -y, -z'
+  10  '-x+y, y, z'
+  11  '-x, -x+y, -z'
+  12  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  3  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  3  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au4  6  0.15348109  0.30696218  0.74876657  1
+  Au  Au5  2  0.33333333  0.66666667  0.75197207  1
+# generated using pymatgen
+data_ID_3
+_symmetry_space_group_name_H-M   I4_122
+_cell_length_a   6.64290643
+_cell_length_b   6.64290643
+_cell_length_c   14.99428070
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   98
+_chemical_formula_structural   CuAu
+_cell_volume   661.67070450
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  'x, -y+1/2, -z+1/4'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y, -z+3/4'
+  8  'y+1/2, x+1/2, -z+1/2'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  'x+1/2, -y, -z+3/4'
+  14  '-y+1/2, -x+1/2, -z+1/2'
+  15  '-x, y+1/2, -z+1/4'
+  16  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.00000000  0.16585776  1
+  Cu  Cu1  8  0.24887562  0.74887562  0.25000000  1
+  Au  Au2  8  0.00000000  0.00000000  0.32975330  1
+  Au  Au3  4  0.00000000  0.00000000  0.00000000  1
+  Au  Au4  4  0.00000000  0.00000000  0.50000000  1
+# generated using pymatgen
+data_ID_4
+_symmetry_space_group_name_H-M   Im-3m
+_cell_length_a   11.10056725
+_cell_length_b   11.10056725
+_cell_length_c   11.10056725
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   229
+_chemical_formula_structural   CuAu
+_cell_volume   1367.84068304
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+1/2, x+1/2, z+1/2'
+  52  'y+1/2, -x+1/2, -z+1/2'
+  53  '-x+1/2, -y+1/2, z+1/2'
+  54  'x+1/2, y+1/2, -z+1/2'
+  55  'y+1/2, -x+1/2, z+1/2'
+  56  '-y+1/2, x+1/2, -z+1/2'
+  57  'x+1/2, -y+1/2, -z+1/2'
+  58  '-x+1/2, y+1/2, z+1/2'
+  59  '-y+1/2, -x+1/2, -z+1/2'
+  60  'y+1/2, x+1/2, z+1/2'
+  61  '-x+1/2, y+1/2, -z+1/2'
+  62  'x+1/2, -y+1/2, z+1/2'
+  63  'y+1/2, x+1/2, -z+1/2'
+  64  '-y+1/2, -x+1/2, z+1/2'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+1/2, -y+1/2, x+1/2'
+  68  '-z+1/2, y+1/2, -x+1/2'
+  69  'z+1/2, -x+1/2, -y+1/2'
+  70  '-z+1/2, x+1/2, y+1/2'
+  71  'z+1/2, y+1/2, -x+1/2'
+  72  '-z+1/2, -y+1/2, x+1/2'
+  73  '-z+1/2, x+1/2, -y+1/2'
+  74  'z+1/2, -x+1/2, y+1/2'
+  75  '-z+1/2, -y+1/2, -x+1/2'
+  76  'z+1/2, y+1/2, x+1/2'
+  77  '-z+1/2, -x+1/2, y+1/2'
+  78  'z+1/2, x+1/2, -y+1/2'
+  79  '-z+1/2, y+1/2, x+1/2'
+  80  'z+1/2, -y+1/2, -x+1/2'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/2, z+1/2, -y+1/2'
+  84  '-x+1/2, -z+1/2, y+1/2'
+  85  '-y+1/2, z+1/2, -x+1/2'
+  86  'y+1/2, -z+1/2, x+1/2'
+  87  '-x+1/2, z+1/2, y+1/2'
+  88  'x+1/2, -z+1/2, -y+1/2'
+  89  '-y+1/2, -z+1/2, x+1/2'
+  90  'y+1/2, z+1/2, -x+1/2'
+  91  '-x+1/2, -z+1/2, -y+1/2'
+  92  'x+1/2, z+1/2, y+1/2'
+  93  'y+1/2, -z+1/2, -x+1/2'
+  94  '-y+1/2, z+1/2, x+1/2'
+  95  'x+1/2, -z+1/2, y+1/2'
+  96  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.12764838  0.12764838  0.12764838  1
+  Au  Au1  8  0.25000000  0.25000000  0.25000000  1
+  Au  Au2  6  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_5
+_symmetry_space_group_name_H-M   Im-3m
+_cell_length_a   11.09493395
+_cell_length_b   11.09493395
+_cell_length_c   11.09493395
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   229
+_chemical_formula_structural   CuAu
+_cell_volume   1365.75928912
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+1/2, x+1/2, z+1/2'
+  52  'y+1/2, -x+1/2, -z+1/2'
+  53  '-x+1/2, -y+1/2, z+1/2'
+  54  'x+1/2, y+1/2, -z+1/2'
+  55  'y+1/2, -x+1/2, z+1/2'
+  56  '-y+1/2, x+1/2, -z+1/2'
+  57  'x+1/2, -y+1/2, -z+1/2'
+  58  '-x+1/2, y+1/2, z+1/2'
+  59  '-y+1/2, -x+1/2, -z+1/2'
+  60  'y+1/2, x+1/2, z+1/2'
+  61  '-x+1/2, y+1/2, -z+1/2'
+  62  'x+1/2, -y+1/2, z+1/2'
+  63  'y+1/2, x+1/2, -z+1/2'
+  64  '-y+1/2, -x+1/2, z+1/2'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+1/2, -y+1/2, x+1/2'
+  68  '-z+1/2, y+1/2, -x+1/2'
+  69  'z+1/2, -x+1/2, -y+1/2'
+  70  '-z+1/2, x+1/2, y+1/2'
+  71  'z+1/2, y+1/2, -x+1/2'
+  72  '-z+1/2, -y+1/2, x+1/2'
+  73  '-z+1/2, x+1/2, -y+1/2'
+  74  'z+1/2, -x+1/2, y+1/2'
+  75  '-z+1/2, -y+1/2, -x+1/2'
+  76  'z+1/2, y+1/2, x+1/2'
+  77  '-z+1/2, -x+1/2, y+1/2'
+  78  'z+1/2, x+1/2, -y+1/2'
+  79  '-z+1/2, y+1/2, x+1/2'
+  80  'z+1/2, -y+1/2, -x+1/2'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/2, z+1/2, -y+1/2'
+  84  '-x+1/2, -z+1/2, y+1/2'
+  85  '-y+1/2, z+1/2, -x+1/2'
+  86  'y+1/2, -z+1/2, x+1/2'
+  87  '-x+1/2, z+1/2, y+1/2'
+  88  'x+1/2, -z+1/2, -y+1/2'
+  89  '-y+1/2, -z+1/2, x+1/2'
+  90  'y+1/2, z+1/2, -x+1/2'
+  91  '-x+1/2, -z+1/2, -y+1/2'
+  92  'x+1/2, z+1/2, y+1/2'
+  93  'y+1/2, -z+1/2, -x+1/2'
+  94  '-y+1/2, z+1/2, x+1/2'
+  95  'x+1/2, -z+1/2, y+1/2'
+  96  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.12764865  0.12764865  0.12764865  1
+  Au  Au1  8  0.25000000  0.25000000  0.25000000  1
+  Au  Au2  6  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_6
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02641970
+_cell_length_b   3.02641970
+_cell_length_c   3.02641970
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.71963238
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_7
+_symmetry_space_group_name_H-M   P4_12_12
+_cell_length_a   8.40353752
+_cell_length_b   8.40353752
+_cell_length_c   3.73673691
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   92
+_chemical_formula_structural   CuAu
+_cell_volume   263.88627829
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y+1/2, -x+1/2, z+3/4'
+  5  'x+1/2, -y+1/2, -z+3/4'
+  6  '-y, -x, -z+1/2'
+  7  '-x+1/2, y+1/2, -z+1/4'
+  8  'y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.06520180  0.06520180  0.50000000  1
+  Cu  Cu1  4  0.20264212  0.20264212  0.00000000  1
+  Au  Au2  8  0.07886086  0.69505872  0.73182484  1
+# generated using pymatgen
+data_ID_8
+_symmetry_space_group_name_H-M   I4_1/amd
+_cell_length_a   14.63576922
+_cell_length_b   14.63576922
+_cell_length_c   2.66468102
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   141
+_chemical_formula_structural   CuAu
+_cell_volume   570.78997070
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  'x, -y+1/2, -z+1/4'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y, -z+3/4'
+  8  'y+1/2, x+1/2, -z+1/2'
+  9  '-x, -y+1/2, -z+1/4'
+  10  'y, -x, -z'
+  11  'x+1/2, y, -z+3/4'
+  12  '-y+1/2, x+1/2, -z+1/2'
+  13  '-x, y, z'
+  14  'y, x+1/2, z+1/4'
+  15  'x+1/2, -y+1/2, z+1/2'
+  16  '-y+1/2, -x, z+3/4'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-y+1/2, x, z+3/4'
+  19  '-x, -y, z'
+  20  'y, -x+1/2, z+1/4'
+  21  'x+1/2, -y, -z+3/4'
+  22  '-y+1/2, -x+1/2, -z+1/2'
+  23  '-x, y+1/2, -z+1/4'
+  24  'y, x, -z'
+  25  '-x+1/2, -y, -z+3/4'
+  26  'y+1/2, -x+1/2, -z+1/2'
+  27  'x, y+1/2, -z+1/4'
+  28  '-y, x, -z'
+  29  '-x+1/2, y+1/2, z+1/2'
+  30  'y+1/2, x, z+3/4'
+  31  'x, -y, z'
+  32  '-y, -x+1/2, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.08571307  0.75000000  0.12500000  1
+  Au  Au1  16  0.09200883  0.09200883  0.50000000  1
+# generated using pymatgen
+data_ID_9
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   9.37818758
+_cell_length_b   9.37818758
+_cell_length_c   5.50582507
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   CuAu
+_cell_volume   484.23953034
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-x+1/2, -y+1/2, -z+1/2'
+  19  '-y+1/2, x+1/2, z+1/2'
+  20  'y+1/2, -x+1/2, -z+1/2'
+  21  '-x+1/2, -y+1/2, z+1/2'
+  22  'x+1/2, y+1/2, -z+1/2'
+  23  'y+1/2, -x+1/2, z+1/2'
+  24  '-y+1/2, x+1/2, -z+1/2'
+  25  'x+1/2, -y+1/2, -z+1/2'
+  26  '-x+1/2, y+1/2, z+1/2'
+  27  '-y+1/2, -x+1/2, -z+1/2'
+  28  'y+1/2, x+1/2, z+1/2'
+  29  '-x+1/2, y+1/2, -z+1/2'
+  30  'x+1/2, -y+1/2, z+1/2'
+  31  'y+1/2, x+1/2, -z+1/2'
+  32  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.26979781  0.00000000  1
+  Cu  Cu1  4  0.00000000  0.50000000  0.25000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  2  0.00000000  0.00000000  0.50000000  1
+  Au  Au4  8  0.00000000  0.26997090  0.50000000  1
+  Au  Au5  8  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_10
+_symmetry_space_group_name_H-M   P2_12_12
+_cell_length_a   8.19406131
+_cell_length_b   10.39800500
+_cell_length_c   2.72621952
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   18
+_chemical_formula_structural   CuAu
+_cell_volume   232.27905698
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x+1/2, -y+1/2, -z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.22384482  0.12934847  0.99829363  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.49752187  1
+  Cu  Cu2  2  0.00000000  0.50000000  0.99326273  1
+  Au  Au3  4  0.00263068  0.72573596  0.49836015  1
+  Au  Au4  4  0.22766264  0.87835455  0.99709183  1
+# generated using pymatgen
+data_ID_11
+_symmetry_space_group_name_H-M   P3m1
+_cell_length_a   7.79735538
+_cell_length_b   7.79735538
+_cell_length_c   4.85903540
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   156
+_chemical_formula_structural   CuAu
+_cell_volume   255.84406835
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  '-y, -x, z'
+  5  '-x+y, y, z'
+  6  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  3  0.30851715  0.15425857  0.17646945  1
+  Cu  Cu1  3  0.43799812  0.21899906  0.67594869  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.40077032  1
+  Cu  Cu3  1  0.33333333  0.66666667  0.31795132  1
+  Au  Au4  3  0.05152280  0.52576140  0.96517103  1
+  Au  Au5  3  0.17403027  0.82596973  0.58890970  1
+  Au  Au6  1  0.00000000  0.00000000  0.88733017  1
+  Au  Au7  1  0.66666667  0.33333333  0.19676763  1
+# generated using pymatgen
+data_ID_12
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   4.86774907
+_cell_length_b   4.86774907
+_cell_length_c   7.33366880
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   173.77114269
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.16836510  1
+  Au  Au4  2  0.00000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_13
+_symmetry_space_group_name_H-M   Ia-3d
+_cell_length_a   10.89376737
+_cell_length_b   10.89376737
+_cell_length_c   10.89376737
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   230
+_chemical_formula_structural   CuAu
+_cell_volume   1292.80877230
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y+1/4, x+3/4, z+1/4'
+  4  'y+1/4, -x+3/4, -z+1/4'
+  5  '-x+1/2, -y, z+1/2'
+  6  'x+1/2, y, -z+1/2'
+  7  'y+1/4, -x+1/4, z+3/4'
+  8  '-y+1/4, x+1/4, -z+3/4'
+  9  'x, -y, -z+1/2'
+  10  '-x, y, z+1/2'
+  11  '-y+1/4, -x+1/4, -z+1/4'
+  12  'y+1/4, x+1/4, z+1/4'
+  13  '-x+1/2, y, -z'
+  14  'x+1/2, -y, z'
+  15  'y+1/4, x+3/4, -z+3/4'
+  16  '-y+1/4, -x+3/4, z+3/4'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z+1/4, -y+1/4, x+3/4'
+  20  '-z+1/4, y+1/4, -x+3/4'
+  21  'z+1/2, -x+1/2, -y'
+  22  '-z+1/2, x+1/2, y'
+  23  'z+3/4, y+1/4, -x+1/4'
+  24  '-z+3/4, -y+1/4, x+1/4'
+  25  '-z+1/2, x, -y'
+  26  'z+1/2, -x, y'
+  27  '-z+1/4, -y+1/4, -x+1/4'
+  28  'z+1/4, y+1/4, x+1/4'
+  29  '-z, -x+1/2, y'
+  30  'z, x+1/2, -y'
+  31  '-z+3/4, y+1/4, x+3/4'
+  32  'z+3/4, -y+1/4, -x+3/4'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x+3/4, z+1/4, -y+1/4'
+  36  '-x+3/4, -z+1/4, y+1/4'
+  37  '-y, z+1/2, -x+1/2'
+  38  'y, -z+1/2, x+1/2'
+  39  '-x+1/4, z+3/4, y+1/4'
+  40  'x+1/4, -z+3/4, -y+1/4'
+  41  '-y, -z+1/2, x'
+  42  'y, z+1/2, -x'
+  43  '-x+1/4, -z+1/4, -y+1/4'
+  44  'x+1/4, z+1/4, y+1/4'
+  45  'y, -z, -x+1/2'
+  46  '-y, z, x+1/2'
+  47  'x+3/4, -z+3/4, y+1/4'
+  48  '-x+3/4, z+3/4, -y+1/4'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+3/4, x+1/4, z+3/4'
+  52  'y+3/4, -x+1/4, -z+3/4'
+  53  '-x, -y+1/2, z'
+  54  'x, y+1/2, -z'
+  55  'y+3/4, -x+3/4, z+1/4'
+  56  '-y+3/4, x+3/4, -z+1/4'
+  57  'x+1/2, -y+1/2, -z'
+  58  '-x+1/2, y+1/2, z'
+  59  '-y+3/4, -x+3/4, -z+3/4'
+  60  'y+3/4, x+3/4, z+3/4'
+  61  '-x, y+1/2, -z+1/2'
+  62  'x, -y+1/2, z+1/2'
+  63  'y+3/4, x+1/4, -z+1/4'
+  64  '-y+3/4, -x+1/4, z+1/4'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+3/4, -y+3/4, x+1/4'
+  68  '-z+3/4, y+3/4, -x+1/4'
+  69  'z, -x, -y+1/2'
+  70  '-z, x, y+1/2'
+  71  'z+1/4, y+3/4, -x+3/4'
+  72  '-z+1/4, -y+3/4, x+3/4'
+  73  '-z, x+1/2, -y+1/2'
+  74  'z, -x+1/2, y+1/2'
+  75  '-z+3/4, -y+3/4, -x+3/4'
+  76  'z+3/4, y+3/4, x+3/4'
+  77  '-z+1/2, -x, y+1/2'
+  78  'z+1/2, x, -y+1/2'
+  79  '-z+1/4, y+3/4, x+1/4'
+  80  'z+1/4, -y+3/4, -x+1/4'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/4, z+3/4, -y+3/4'
+  84  '-x+1/4, -z+3/4, y+3/4'
+  85  '-y+1/2, z, -x'
+  86  'y+1/2, -z, x'
+  87  '-x+3/4, z+1/4, y+3/4'
+  88  'x+3/4, -z+1/4, -y+3/4'
+  89  '-y+1/2, -z, x+1/2'
+  90  'y+1/2, z, -x+1/2'
+  91  '-x+3/4, -z+3/4, -y+3/4'
+  92  'x+3/4, z+3/4, y+3/4'
+  93  'y+1/2, -z+1/2, -x'
+  94  '-y+1/2, z+1/2, x'
+  95  'x+1/4, -z+1/4, y+3/4'
+  96  '-x+1/4, z+1/4, -y+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.12500000  0.12500000  0.12500000  1
+  Au  Au1  16  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_14
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   8.97603001
+_cell_length_b   5.99196813
+_cell_length_c   9.07116404
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.22344378
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   CuAu
+_cell_volume   472.92812193
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.11858385  0.12879163  0.50515583  1
+  Cu  Cu1  4  0.00000000  0.31861720  0.25000000  1
+  Cu  Cu2  4  0.00000000  0.50000000  0.00000000  1
+  Au  Au3  8  0.24753632  0.43151426  0.72429086  1
+  Au  Au4  4  0.00000000  0.18852526  0.75000000  1
+  Au  Au5  4  0.25000000  0.25000000  0.00000000  1
+# generated using pymatgen
+data_ID_15
+_symmetry_space_group_name_H-M   Pm-3n
+_cell_length_a   6.79944913
+_cell_length_b   6.79944913
+_cell_length_c   6.79944913
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   223
+_chemical_formula_structural   CuAu
+_cell_volume   314.35558963
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y+1/2, x+1/2, z+1/2'
+  4  'y+1/2, -x+1/2, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y+1/2, -x+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y+1/2, -x+1/2, -z+1/2'
+  12  'y+1/2, x+1/2, z+1/2'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y+1/2, x+1/2, -z+1/2'
+  16  '-y+1/2, -x+1/2, z+1/2'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z+1/2, -y+1/2, x+1/2'
+  20  '-z+1/2, y+1/2, -x+1/2'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z+1/2, y+1/2, -x+1/2'
+  24  '-z+1/2, -y+1/2, x+1/2'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z+1/2, -y+1/2, -x+1/2'
+  28  'z+1/2, y+1/2, x+1/2'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z+1/2, y+1/2, x+1/2'
+  32  'z+1/2, -y+1/2, -x+1/2'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x+1/2, z+1/2, -y+1/2'
+  36  '-x+1/2, -z+1/2, y+1/2'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x+1/2, z+1/2, y+1/2'
+  40  'x+1/2, -z+1/2, -y+1/2'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x+1/2, -z+1/2, -y+1/2'
+  44  'x+1/2, z+1/2, y+1/2'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x+1/2, -z+1/2, y+1/2'
+  48  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25000000  0.25000000  0.25000000  1
+  Au  Au1  6  0.00000000  0.50000000  0.25000000  1
+  Au  Au2  2  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_16
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   8.56665253
+_cell_length_b   8.56665253
+_cell_length_c   4.84578607
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   355.62029744
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25022417  0.25022417  0.25009506  1
+  Au  Au1  4  0.00000000  0.35022421  0.50000000  1
+  Au  Au2  4  0.14973289  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_17
+_symmetry_space_group_name_H-M   Imma
+_cell_length_a   9.71600311
+_cell_length_b   9.73146173
+_cell_length_c   5.38735624
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   74
+_chemical_formula_structural   CuAu
+_cell_volume   509.37944860
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y+1/2, z'
+  4  'x, y+1/2, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-x+1/2, -y+1/2, -z+1/2'
+  11  '-x+1/2, -y, z+1/2'
+  12  'x+1/2, y, -z+1/2'
+  13  'x+1/2, -y+1/2, -z+1/2'
+  14  '-x+1/2, y+1/2, z+1/2'
+  15  '-x+1/2, y, -z+1/2'
+  16  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.12865707  0.12470986  0.83943518  1
+  Au  Au1  8  0.25000000  0.10832995  0.25000000  1
+  Au  Au2  4  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  4  0.00000000  0.25000000  0.23118271  1
+# generated using pymatgen
+data_ID_18
+_symmetry_space_group_name_H-M   Pbcm
+_cell_length_a   5.34542396
+_cell_length_b   4.76803080
+_cell_length_c   8.83409161
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   57
+_chemical_formula_structural   CuAu
+_cell_volume   225.15578352
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z+1/2'
+  4  'x, y, -z+1/2'
+  5  'x, -y+1/2, -z'
+  6  '-x, y+1/2, z'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.12463440  0.57268988  0.75000000  1
+  Cu  Cu1  4  0.37494384  0.75000000  0.00000000  1
+  Au  Au2  4  0.12572153  0.25000000  0.00000000  1
+  Au  Au3  4  0.37525754  0.05968084  0.75000000  1
+# generated using pymatgen
+data_ID_19
+_symmetry_space_group_name_H-M   P4_2/mmc
+_cell_length_a   3.78108318
+_cell_length_b   3.78108318
+_cell_length_c   7.88336981
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   131
+_chemical_formula_structural   CuAu
+_cell_volume   112.70530634
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z+1/2'
+  4  'y, -x, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z+1/2'
+  8  '-y, x, -z+1/2'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z+1/2'
+  12  'y, x, z+1/2'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z+1/2'
+  16  '-y, -x, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.25000000  1
+  Cu  Cu1  2  0.00000000  0.50000000  0.50000000  1
+  Au  Au2  2  0.00000000  0.50000000  0.00000000  1
+  Au  Au3  2  0.50000000  0.50000000  0.25000000  1
+# generated using pymatgen
+data_ID_20
+_symmetry_space_group_name_H-M   P4/nmm
+_cell_length_a   6.48362351
+_cell_length_b   6.48362351
+_cell_length_c   7.34682216
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   129
+_chemical_formula_structural   CuAu
+_cell_volume   308.84110896
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z'
+  3  '-x, -y, z'
+  4  'y+1/2, -x+1/2, z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'y, x, -z'
+  9  '-x+1/2, -y+1/2, -z'
+  10  'y, -x, -z'
+  11  'x+1/2, y+1/2, -z'
+  12  '-y, x, -z'
+  13  '-x, y, z'
+  14  'y+1/2, x+1/2, z'
+  15  'x, -y, z'
+  16  '-y+1/2, -x+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.19138992  0.30861008  0.65081076  1
+  Au  Au1  4  0.00000000  0.00000000  0.20200281  1
+  Au  Au2  4  0.25000000  0.25000000  0.00000000  1
+# generated using pymatgen
+data_ID_21
+_symmetry_space_group_name_H-M   I4_1/a
+_cell_length_a   6.49887642
+_cell_length_b   6.49887642
+_cell_length_c   12.84465885
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   88
+_chemical_formula_structural   CuAu
+_cell_volume   542.49923660
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  '-x, -y+1/2, -z+1/4'
+  6  'y, -x, -z'
+  7  'x+1/2, y, -z+3/4'
+  8  '-y+1/2, x+1/2, -z+1/2'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-y+1/2, x, z+3/4'
+  11  '-x, -y, z'
+  12  'y, -x+1/2, z+1/4'
+  13  '-x+1/2, -y, -z+3/4'
+  14  'y+1/2, -x+1/2, -z+1/2'
+  15  'x, y+1/2, -z+1/4'
+  16  '-y, x, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.25000000  0.12500000  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  4  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  16  0.13926324  0.14587724  0.68614517  1
+# generated using pymatgen
+data_ID_22
+_symmetry_space_group_name_H-M   Pmmm
+_cell_length_a   5.02201849
+_cell_length_b   5.27462816
+_cell_length_c   9.36498429
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   47
+_chemical_formula_structural   CuAu
+_cell_volume   248.07169228
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.50000000  0.24687703  0.25309804  1
+  Cu  Cu1  2  0.25576006  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu3  1  0.50000000  0.50000000  0.00000000  1
+  Au  Au4  4  0.00000000  0.24478591  0.28137184  1
+  Au  Au5  2  0.00000000  0.25168259  0.00000000  1
+  Au  Au6  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au7  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_23
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   9.83723036
+_cell_length_b   9.83723036
+_cell_length_c   5.25662669
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   CuAu
+_cell_volume   508.68955280
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-x+1/2, -y+1/2, -z+1/2'
+  19  '-y+1/2, x+1/2, z+1/2'
+  20  'y+1/2, -x+1/2, -z+1/2'
+  21  '-x+1/2, -y+1/2, z+1/2'
+  22  'x+1/2, y+1/2, -z+1/2'
+  23  'y+1/2, -x+1/2, z+1/2'
+  24  '-y+1/2, x+1/2, -z+1/2'
+  25  'x+1/2, -y+1/2, -z+1/2'
+  26  '-x+1/2, y+1/2, z+1/2'
+  27  '-y+1/2, -x+1/2, -z+1/2'
+  28  'y+1/2, x+1/2, z+1/2'
+  29  '-x+1/2, y+1/2, -z+1/2'
+  30  'x+1/2, -y+1/2, z+1/2'
+  31  'y+1/2, x+1/2, -z+1/2'
+  32  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.24913856  0.00000000  1
+  Cu  Cu1  4  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu3  2  0.00000000  0.00000000  0.50000000  1
+  Au  Au4  8  0.00000000  0.25060583  0.50000000  1
+  Au  Au5  8  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_24
+_symmetry_space_group_name_H-M   Cmce
+_cell_length_a   10.90726682
+_cell_length_b   7.67122843
+_cell_length_c   5.46083661
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   64
+_chemical_formula_structural   CuAu
+_cell_volume   456.91985943
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z+1/2'
+  4  'x+1/2, y, -z+1/2'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x+1/2, y, -z+1/2'
+  8  'x+1/2, -y, z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x, -y+1/2, z+1/2'
+  12  'x, y+1/2, -z+1/2'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x, y+1/2, -z+1/2'
+  16  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.24990191  0.24952200  1
+  Cu  Cu1  8  0.11731584  0.00000000  0.00000000  1
+  Au  Au2  8  0.12187663  0.00000000  0.50000000  1
+  Au  Au3  8  0.25000000  0.24991753  0.25000000  1
+# generated using pymatgen
+data_ID_25
+_symmetry_space_group_name_H-M   Im-3m
+_cell_length_a   11.16807145
+_cell_length_b   11.16807145
+_cell_length_c   11.16807145
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   229
+_chemical_formula_structural   CuAu
+_cell_volume   1392.94686753
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+1/2, x+1/2, z+1/2'
+  52  'y+1/2, -x+1/2, -z+1/2'
+  53  '-x+1/2, -y+1/2, z+1/2'
+  54  'x+1/2, y+1/2, -z+1/2'
+  55  'y+1/2, -x+1/2, z+1/2'
+  56  '-y+1/2, x+1/2, -z+1/2'
+  57  'x+1/2, -y+1/2, -z+1/2'
+  58  '-x+1/2, y+1/2, z+1/2'
+  59  '-y+1/2, -x+1/2, -z+1/2'
+  60  'y+1/2, x+1/2, z+1/2'
+  61  '-x+1/2, y+1/2, -z+1/2'
+  62  'x+1/2, -y+1/2, z+1/2'
+  63  'y+1/2, x+1/2, -z+1/2'
+  64  '-y+1/2, -x+1/2, z+1/2'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+1/2, -y+1/2, x+1/2'
+  68  '-z+1/2, y+1/2, -x+1/2'
+  69  'z+1/2, -x+1/2, -y+1/2'
+  70  '-z+1/2, x+1/2, y+1/2'
+  71  'z+1/2, y+1/2, -x+1/2'
+  72  '-z+1/2, -y+1/2, x+1/2'
+  73  '-z+1/2, x+1/2, -y+1/2'
+  74  'z+1/2, -x+1/2, y+1/2'
+  75  '-z+1/2, -y+1/2, -x+1/2'
+  76  'z+1/2, y+1/2, x+1/2'
+  77  '-z+1/2, -x+1/2, y+1/2'
+  78  'z+1/2, x+1/2, -y+1/2'
+  79  '-z+1/2, y+1/2, x+1/2'
+  80  'z+1/2, -y+1/2, -x+1/2'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/2, z+1/2, -y+1/2'
+  84  '-x+1/2, -z+1/2, y+1/2'
+  85  '-y+1/2, z+1/2, -x+1/2'
+  86  'y+1/2, -z+1/2, x+1/2'
+  87  '-x+1/2, z+1/2, y+1/2'
+  88  'x+1/2, -z+1/2, -y+1/2'
+  89  '-y+1/2, -z+1/2, x+1/2'
+  90  'y+1/2, z+1/2, -x+1/2'
+  91  '-x+1/2, -z+1/2, -y+1/2'
+  92  'x+1/2, z+1/2, y+1/2'
+  93  'y+1/2, -z+1/2, -x+1/2'
+  94  '-y+1/2, z+1/2, x+1/2'
+  95  'x+1/2, -z+1/2, y+1/2'
+  96  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu1  6  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  16  0.12412740  0.12412740  0.12412740  1
+# generated using pymatgen
+data_ID_26
+_symmetry_space_group_name_H-M   P-62c
+_cell_length_a   8.48949123
+_cell_length_b   8.48949123
+_cell_length_c   4.57823870
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   190
+_chemical_formula_structural   CuAu
+_cell_volume   285.75404826
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z+1/2'
+  3  '-y, x-y, z'
+  4  'x, y, -z+1/2'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z+1/2'
+  7  'y, x, z+1/2'
+  8  '-x, -x+y, -z'
+  9  'x-y, -y, z+1/2'
+  10  'y, x, -z'
+  11  '-x, -x+y, z+1/2'
+  12  'x-y, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.09301477  0.72795921  0.25000000  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.25000000  1
+  Au  Au2  6  0.09048547  0.32971786  0.75000000  1
+  Au  Au3  2  0.33333333  0.66666667  0.75000000  1
+# generated using pymatgen
+data_ID_27
+_symmetry_space_group_name_H-M   F222
+_cell_length_a   6.94212142
+_cell_length_b   7.87558892
+_cell_length_c   20.00363309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   22
+_chemical_formula_structural   CuAu
+_cell_volume   1093.66452323
+_cell_formula_units_Z   32
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, y, z+1/2'
+  6  '-x+1/2, -y, z+1/2'
+  7  'x+1/2, -y, -z+1/2'
+  8  '-x+1/2, y, -z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, z'
+  11  'x+1/2, -y+1/2, -z'
+  12  '-x+1/2, y+1/2, -z'
+  13  'x, y+1/2, z+1/2'
+  14  '-x, -y+1/2, z+1/2'
+  15  'x, -y+1/2, -z+1/2'
+  16  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.00110202  0.21112357  0.83584821  1
+  Cu  Cu1  8  0.25000000  0.25000000  0.07158616  1
+  Cu  Cu2  4  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu3  4  0.25000000  0.25000000  0.75000000  1
+  Au  Au4  16  0.19920222  0.00055514  0.33676994  1
+  Au  Au5  8  0.00000000  0.00000000  0.06607791  1
+  Au  Au6  8  0.25000000  0.25000000  0.56333436  1
+# generated using pymatgen
+data_ID_28
+_symmetry_space_group_name_H-M   Ima2
+_cell_length_a   7.20587791
+_cell_length_b   7.56808635
+_cell_length_c   10.03167255
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   46
+_chemical_formula_structural   CuAu
+_cell_volume   547.07431577
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y, z'
+  4  'x+1/2, -y, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.16385078  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.42897350  1
+  Cu  Cu2  4  0.25000000  0.60519250  0.29680379  1
+  Cu  Cu3  4  0.25000000  0.73670790  0.04274683  1
+  Au  Au4  8  0.06473682  0.16395190  0.93035446  1
+  Au  Au5  8  0.06508764  0.16384321  0.66351449  1
+# generated using pymatgen
+data_ID_29
+_symmetry_space_group_name_H-M   Cmme
+_cell_length_a   5.45644739
+_cell_length_b   7.65476531
+_cell_length_c   5.41470677
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   67
+_chemical_formula_structural   CuAu
+_cell_volume   226.16052042
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z'
+  4  'x+1/2, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x+1/2, y, -z'
+  8  'x+1/2, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x, -y+1/2, z'
+  12  'x, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x, y+1/2, -z'
+  16  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.25000000  0.74742377  1
+  Cu  Cu1  4  0.25000000  0.00000000  0.00000000  1
+  Au  Au2  4  0.00000000  0.25000000  0.22657736  1
+  Au  Au3  4  0.25000000  0.00000000  0.50000000  1
+# generated using pymatgen
+data_ID_30
+_symmetry_space_group_name_H-M   P6_3
+_cell_length_a   6.60645931
+_cell_length_b   6.60645931
+_cell_length_c   6.96375842
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   173
+_chemical_formula_structural   CuAu
+_cell_volume   263.21574071
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x-y, x, z+1/2'
+  3  '-y, x-y, z'
+  4  '-x, -y, z+1/2'
+  5  '-x+y, -x, z'
+  6  'y, -x+y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.01117194  0.22733093  0.63049380  1
+  Cu  Cu1  2  0.33333333  0.66666667  0.00296477  1
+  Au  Au2  6  0.06110376  0.44864039  0.30352136  1
+  Au  Au3  2  0.33333333  0.66666667  0.61361380  1
+# generated using pymatgen
+data_ID_31
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   4.91800611
+_cell_length_b   11.92387565
+_cell_length_c   8.34076606
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   CuAu
+_cell_volume   489.11664524
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25218672  0.17526308  0.00549138  1
+  Cu  Cu1  4  0.25679828  0.00000000  0.18710574  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.65178144  1
+  Cu  Cu3  2  0.00000000  0.00000000  0.93419019  1
+  Au  Au4  4  0.00000000  0.12079687  0.40689195  1
+  Au  Au5  4  0.00000000  0.19938930  0.72432006  1
+  Au  Au6  4  0.50000000  0.19235956  0.28903989  1
+  Au  Au7  2  0.50000000  0.00000000  0.49042782  1
+  Au  Au8  2  0.50000000  0.00000000  0.84850823  1
+# generated using pymatgen
+data_ID_32
+_symmetry_space_group_name_H-M   Imm2
+_cell_length_a   4.25235348
+_cell_length_b   5.25176251
+_cell_length_c   12.35980914
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   44
+_chemical_formula_structural   CuAu
+_cell_volume   276.02359094
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.27150452  1
+  Cu  Cu1  2  0.00000000  0.50000000  0.11210180  1
+  Cu  Cu2  2  0.00000000  0.50000000  0.52360850  1
+  Cu  Cu3  2  0.00000000  0.50000000  0.88723668  1
+  Au  Au4  4  0.00000000  0.24578553  0.70379933  1
+  Au  Au5  2  0.00000000  0.00000000  0.49433472  1
+  Au  Au6  2  0.00000000  0.50000000  0.32000804  1
+# generated using pymatgen
+data_ID_33
+_symmetry_space_group_name_H-M   P4_2/mmc
+_cell_length_a   3.77910053
+_cell_length_b   3.77910053
+_cell_length_c   7.89212527
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   131
+_chemical_formula_structural   CuAu
+_cell_volume   112.71218272
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z+1/2'
+  4  'y, -x, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z+1/2'
+  8  '-y, x, -z+1/2'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z+1/2'
+  12  'y, x, z+1/2'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z+1/2'
+  16  '-y, -x, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu1  2  0.50000000  0.50000000  0.25000000  1
+  Au  Au2  2  0.00000000  0.00000000  0.25000000  1
+  Au  Au3  2  0.00000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_34
+_symmetry_space_group_name_H-M   Cmm2
+_cell_length_a   5.27655069
+_cell_length_b   10.08376265
+_cell_length_c   10.12250981
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   35
+_chemical_formula_structural   CuAu
+_cell_volume   538.59328699
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.24897866  0.00000000  0.87972828  1
+  Cu  Cu1  4  0.25000000  0.25000000  0.00957209  1
+  Cu  Cu2  4  0.25000000  0.25000000  0.25866499  1
+  Cu  Cu3  2  0.00000000  0.00000000  0.68212172  1
+  Cu  Cu4  2  0.00000000  0.50000000  0.31540225  1
+  Au  Au5  8  0.24891760  0.12592824  0.49623212  1
+  Au  Au6  4  0.25000000  0.25000000  0.75688600  1
+  Au  Au7  2  0.00000000  0.00000000  0.26789974  1
+  Au  Au8  2  0.00000000  0.50000000  0.08217574  1
+# generated using pymatgen
+data_ID_35
+_symmetry_space_group_name_H-M   P222_1
+_cell_length_a   4.72898646
+_cell_length_b   9.15035916
+_cell_length_c   5.30363593
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   17
+_chemical_formula_structural   CuAu
+_cell_volume   229.49853388
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  'x, -y, -z'
+  4  '-x, y, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.26756342  0.26402916  0.62278903  1
+  Cu  Cu1  2  0.48210361  0.00000000  0.50000000  1
+  Cu  Cu2  2  0.50000000  0.49016756  0.25000000  1
+  Au  Au3  4  0.24811752  0.23829745  0.11800418  1
+  Au  Au4  2  0.00000000  0.02824100  0.75000000  1
+  Au  Au5  2  0.00300210  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_36
+_symmetry_space_group_name_H-M   P-62m
+_cell_length_a   6.28378782
+_cell_length_b   6.28378782
+_cell_length_c   8.12328555
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   189
+_chemical_formula_structural   CuAu
+_cell_volume   277.78281553
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z'
+  3  '-y, x-y, z'
+  4  'x, y, -z'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z'
+  7  'y, x, z'
+  8  '-x, -x+y, -z'
+  9  'x-y, -y, z'
+  10  'y, x, -z'
+  11  '-x, -x+y, z'
+  12  'x-y, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.00000000  0.24603465  0.26480246  1
+  Cu  Cu1  2  0.33333333  0.66666667  0.50000000  1
+  Au  Au2  4  0.33333333  0.66666667  0.17608241  1
+  Au  Au3  3  0.00000000  0.74263887  0.00000000  1
+  Au  Au4  1  0.00000000  0.00000000  0.50000000  1
+# generated using pymatgen
+data_ID_37
+_symmetry_space_group_name_H-M   Ia-3
+_cell_length_a   11.00812491
+_cell_length_b   11.00812491
+_cell_length_c   11.00812491
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   206
+_chemical_formula_structural   CuAu
+_cell_volume   1333.95152204
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y+1/2, z'
+  4  'x, y+1/2, -z'
+  5  'x, -y, -z+1/2'
+  6  '-x, y, z+1/2'
+  7  '-x, y+1/2, -z+1/2'
+  8  'x, -y+1/2, z+1/2'
+  9  'z, x, y'
+  10  '-z, -x, -y'
+  11  'z, -x, -y+1/2'
+  12  '-z, x, y+1/2'
+  13  '-z+1/2, x, -y'
+  14  'z+1/2, -x, y'
+  15  '-z+1/2, -x, y+1/2'
+  16  'z+1/2, x, -y+1/2'
+  17  'y, z, x'
+  18  '-y, -z, -x'
+  19  '-y+1/2, z, -x'
+  20  'y+1/2, -z, x'
+  21  '-y, -z+1/2, x'
+  22  'y, z+1/2, -x'
+  23  'y+1/2, -z+1/2, -x'
+  24  '-y+1/2, z+1/2, x'
+  25  'x+1/2, y+1/2, z+1/2'
+  26  '-x+1/2, -y+1/2, -z+1/2'
+  27  '-x+1/2, -y, z+1/2'
+  28  'x+1/2, y, -z+1/2'
+  29  'x+1/2, -y+1/2, -z'
+  30  '-x+1/2, y+1/2, z'
+  31  '-x+1/2, y, -z'
+  32  'x+1/2, -y, z'
+  33  'z+1/2, x+1/2, y+1/2'
+  34  '-z+1/2, -x+1/2, -y+1/2'
+  35  'z+1/2, -x+1/2, -y'
+  36  '-z+1/2, x+1/2, y'
+  37  '-z, x+1/2, -y+1/2'
+  38  'z, -x+1/2, y+1/2'
+  39  '-z, -x+1/2, y'
+  40  'z, x+1/2, -y'
+  41  'y+1/2, z+1/2, x+1/2'
+  42  '-y+1/2, -z+1/2, -x+1/2'
+  43  '-y, z+1/2, -x+1/2'
+  44  'y, -z+1/2, x+1/2'
+  45  '-y+1/2, -z, x+1/2'
+  46  'y+1/2, z, -x+1/2'
+  47  'y, -z, -x+1/2'
+  48  '-y, z, x+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.18779036  0.81220964  0.31220964  1
+  Au  Au1  16  0.06291063  0.93708937  0.43708937  1
+# generated using pymatgen
+data_ID_38
+_symmetry_space_group_name_H-M   Amm2
+_cell_length_a   6.72670320
+_cell_length_b   7.83975708
+_cell_length_c   10.02430572
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   38
+_chemical_formula_structural   CuAu
+_cell_volume   528.63897035
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x, y+1/2, z+1/2'
+  8  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.18297838  0.16355211  0.72790411  1
+  Cu  Cu1  4  0.50000000  0.20154678  0.29829900  1
+  Cu  Cu2  2  0.50000000  0.00000000  0.09129656  1
+  Cu  Cu3  2  0.50000000  0.00000000  0.63527426  1
+  Au  Au4  8  0.21709534  0.16759447  0.47622357  1
+  Au  Au5  4  0.19415666  0.00000000  0.23435122  1
+  Au  Au6  4  0.19694325  0.00000000  0.94799034  1
+# generated using pymatgen
+data_ID_39
+_symmetry_space_group_name_H-M   I4_1
+_cell_length_a   9.93927480
+_cell_length_b   9.93927480
+_cell_length_c   5.15838339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   80
+_chemical_formula_structural   CuAu
+_cell_volume   509.59248394
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-y+1/2, x, z+3/4'
+  7  '-x, -y, z'
+  8  'y, -x+1/2, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.14865414  0.14964484  0.48892560  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.22505595  1
+  Cu  Cu2  4  0.00000000  0.00000000  0.73830492  1
+  Au  Au3  8  0.00098868  0.74722548  0.12128300  1
+  Au  Au4  8  0.08428137  0.74797289  0.62165319  1
+# generated using pymatgen
+data_ID_40
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   3.87059537
+_cell_length_b   3.87059537
+_cell_length_c   15.12660731
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   CuAu
+_cell_volume   226.61939674
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-x+1/2, -y+1/2, -z+1/2'
+  19  '-y+1/2, x+1/2, z+1/2'
+  20  'y+1/2, -x+1/2, -z+1/2'
+  21  '-x+1/2, -y+1/2, z+1/2'
+  22  'x+1/2, y+1/2, -z+1/2'
+  23  'y+1/2, -x+1/2, z+1/2'
+  24  '-y+1/2, x+1/2, -z+1/2'
+  25  'x+1/2, -y+1/2, -z+1/2'
+  26  '-x+1/2, y+1/2, z+1/2'
+  27  '-y+1/2, -x+1/2, -z+1/2'
+  28  'y+1/2, x+1/2, z+1/2'
+  29  '-x+1/2, y+1/2, -z+1/2'
+  30  'x+1/2, -y+1/2, z+1/2'
+  31  'y+1/2, x+1/2, -z+1/2'
+  32  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.11685375  1
+  Cu  Cu1  4  0.00000000  0.50000000  0.00000000  1
+  Au  Au2  4  0.00000000  0.00000000  0.38468765  1
+  Au  Au3  4  0.00000000  0.50000000  0.25000000  1
+# generated using pymatgen
+data_ID_41
+_symmetry_space_group_name_H-M   Pmmm
+_cell_length_a   2.58648155
+_cell_length_b   9.30189842
+_cell_length_c   10.23200051
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   47
+_chemical_formula_structural   CuAu
+_cell_volume   246.17363045
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.50000000  0.25797150  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au3  2  0.50000000  0.50000000  0.23952488  1
+  Au  Au4  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au5  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_42
+_symmetry_space_group_name_H-M   Im-3m
+_cell_length_a   11.15865432
+_cell_length_b   11.15865432
+_cell_length_c   11.15865432
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   229
+_chemical_formula_structural   CuAu
+_cell_volume   1389.42616271
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+1/2, x+1/2, z+1/2'
+  52  'y+1/2, -x+1/2, -z+1/2'
+  53  '-x+1/2, -y+1/2, z+1/2'
+  54  'x+1/2, y+1/2, -z+1/2'
+  55  'y+1/2, -x+1/2, z+1/2'
+  56  '-y+1/2, x+1/2, -z+1/2'
+  57  'x+1/2, -y+1/2, -z+1/2'
+  58  '-x+1/2, y+1/2, z+1/2'
+  59  '-y+1/2, -x+1/2, -z+1/2'
+  60  'y+1/2, x+1/2, z+1/2'
+  61  '-x+1/2, y+1/2, -z+1/2'
+  62  'x+1/2, -y+1/2, z+1/2'
+  63  'y+1/2, x+1/2, -z+1/2'
+  64  '-y+1/2, -x+1/2, z+1/2'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+1/2, -y+1/2, x+1/2'
+  68  '-z+1/2, y+1/2, -x+1/2'
+  69  'z+1/2, -x+1/2, -y+1/2'
+  70  '-z+1/2, x+1/2, y+1/2'
+  71  'z+1/2, y+1/2, -x+1/2'
+  72  '-z+1/2, -y+1/2, x+1/2'
+  73  '-z+1/2, x+1/2, -y+1/2'
+  74  'z+1/2, -x+1/2, y+1/2'
+  75  '-z+1/2, -y+1/2, -x+1/2'
+  76  'z+1/2, y+1/2, x+1/2'
+  77  '-z+1/2, -x+1/2, y+1/2'
+  78  'z+1/2, x+1/2, -y+1/2'
+  79  '-z+1/2, y+1/2, x+1/2'
+  80  'z+1/2, -y+1/2, -x+1/2'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/2, z+1/2, -y+1/2'
+  84  '-x+1/2, -z+1/2, y+1/2'
+  85  '-y+1/2, z+1/2, -x+1/2'
+  86  'y+1/2, -z+1/2, x+1/2'
+  87  '-x+1/2, z+1/2, y+1/2'
+  88  'x+1/2, -z+1/2, -y+1/2'
+  89  '-y+1/2, -z+1/2, x+1/2'
+  90  'y+1/2, z+1/2, -x+1/2'
+  91  '-x+1/2, -z+1/2, -y+1/2'
+  92  'x+1/2, z+1/2, y+1/2'
+  93  'y+1/2, -z+1/2, -x+1/2'
+  94  '-y+1/2, z+1/2, x+1/2'
+  95  'x+1/2, -z+1/2, y+1/2'
+  96  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu1  6  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  16  0.12416500  0.12416500  0.12416500  1
+# generated using pymatgen
+data_ID_43
+_symmetry_space_group_name_H-M   P-1
+_cell_length_a   5.11570184
+_cell_length_b   5.40115404
+_cell_length_c   9.78428106
+_cell_angle_alpha   89.14692903
+_cell_angle_beta   77.93427708
+_cell_angle_gamma   62.51732676
+_symmetry_Int_Tables_number   2
+_chemical_formula_structural   CuAu
+_cell_volume   233.50042467
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.10020166  0.86637965  0.88481049  1
+  Cu  Cu1  2  0.22950042  0.28802312  0.23952296  1
+  Cu  Cu2  2  0.24756465  0.78649723  0.24242657  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.00000000  1
+  Cu  Cu4  1  0.50000000  0.00000000  0.50000000  1
+  Au  Au5  2  0.25485004  0.21240741  0.75533798  1
+  Au  Au6  2  0.39072640  0.61709660  0.63811406  1
+  Au  Au7  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au8  1  0.00000000  0.50000000  0.50000000  1
+  Au  Au9  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au10  1  0.50000000  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_44
+_symmetry_space_group_name_H-M   Cc
+_cell_length_a   6.19688523
+_cell_length_b   8.63906778
+_cell_length_c   8.57154444
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.31477255
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   9
+_chemical_formula_structural   CuAu
+_cell_volume   458.87337703
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'x, -y, z+1/2'
+  3  'x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.18477107  0.45883334  0.43861258  1
+  Cu  Cu1  4  0.18910922  0.25028106  0.66899640  1
+  Cu  Cu2  4  0.38071954  0.25370683  0.95852610  1
+  Cu  Cu3  4  0.38498976  0.46224562  0.18678485  1
+  Au  Au4  4  0.12015717  0.21927469  0.20694602  1
+  Au  Au5  4  0.13325377  0.00139025  0.94207006  1
+  Au  Au6  4  0.43781735  0.00109364  0.18280200  1
+  Au  Au7  4  0.45066685  0.21717853  0.42090723  1
+# generated using pymatgen
+data_ID_45
+_symmetry_space_group_name_H-M   F222
+_cell_length_a   7.71369441
+_cell_length_b   8.81313539
+_cell_length_c   14.38160876
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   22
+_chemical_formula_structural   CuAu
+_cell_volume   977.68812712
+_cell_formula_units_Z   32
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, y, z+1/2'
+  6  '-x+1/2, -y, z+1/2'
+  7  'x+1/2, -y, -z+1/2'
+  8  '-x+1/2, y, -z+1/2'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, z'
+  11  'x+1/2, -y+1/2, -z'
+  12  '-x+1/2, y+1/2, -z'
+  13  'x, y+1/2, z+1/2'
+  14  '-x, -y+1/2, z+1/2'
+  15  'x, -y+1/2, -z+1/2'
+  16  '-x, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.08824015  0.25000000  0.75000000  1
+  Cu  Cu1  8  0.16516673  0.00000000  0.00000000  1
+  Cu  Cu2  8  0.25000000  0.25000000  0.57100086  1
+  Cu  Cu3  4  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  4  0.25000000  0.25000000  0.25000000  1
+  Au  Au5  16  0.07405427  0.26443306  0.40951998  1
+  Au  Au6  16  0.18133624  0.00583744  0.66278063  1
+# generated using pymatgen
+data_ID_46
+_symmetry_space_group_name_H-M   C2/c
+_cell_length_a   10.37315990
+_cell_length_b   5.09515760
+_cell_length_c   10.17642899
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   117.81294780
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   15
+_chemical_formula_structural   CuAu
+_cell_volume   475.71838577
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z+1/2'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.24975185  0.49861882  0.24996953  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  4  0.00000000  0.50000000  0.00000000  1
+  Au  Au3  8  0.12498223  0.25043918  0.87495269  1
+  Au  Au4  4  0.00000000  0.24927551  0.25000000  1
+  Au  Au5  4  0.25000000  0.25000000  0.50000000  1
+# generated using pymatgen
+data_ID_47
+_symmetry_space_group_name_H-M   Cmmm
+_cell_length_a   8.87437971
+_cell_length_b   10.54529210
+_cell_length_c   2.64111958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   65
+_chemical_formula_structural   CuAu
+_cell_volume   247.16369860
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z'
+  16  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.24390449  0.37970540  0.00000000  1
+  Au  Au1  4  0.00000000  0.25478465  0.00000000  1
+  Au  Au2  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  2  0.00000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_48
+_symmetry_space_group_name_H-M   P6_3/mmc
+_cell_length_a   4.46331338
+_cell_length_b   4.46331338
+_cell_length_c   18.69673339
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   194
+_chemical_formula_structural   CuAu
+_cell_volume   322.56045887
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  'x-y, x, z+1/2'
+  4  '-x+y, -x, -z+1/2'
+  5  '-y, x-y, z'
+  6  'y, -x+y, -z'
+  7  '-x, -y, z+1/2'
+  8  'x, y, -z+1/2'
+  9  '-x+y, -x, z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, z+1/2'
+  12  '-y, x-y, -z+1/2'
+  13  '-y, -x, -z+1/2'
+  14  'y, x, z+1/2'
+  15  '-x, -x+y, -z'
+  16  'x, x-y, z'
+  17  '-x+y, y, -z+1/2'
+  18  'x-y, -y, z+1/2'
+  19  'y, x, -z'
+  20  '-y, -x, z'
+  21  'x, x-y, -z+1/2'
+  22  '-x, -x+y, z+1/2'
+  23  'x-y, -y, -z'
+  24  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.12461550  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.25000000  1
+  Au  Au3  4  0.33333333  0.66666667  0.97221423  1
+  Au  Au4  2  0.33333333  0.66666667  0.25000000  1
+  Au  Au5  2  0.33333333  0.66666667  0.75000000  1
+# generated using pymatgen
+data_ID_49
+_symmetry_space_group_name_H-M   P6/mmm
+_cell_length_a   2.70585523
+_cell_length_b   2.70585523
+_cell_length_c   5.11108591
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   191
+_chemical_formula_structural   CuAu
+_cell_volume   32.40805201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  'x-y, x, z'
+  4  '-x+y, -x, -z'
+  5  '-y, x-y, z'
+  6  'y, -x+y, -z'
+  7  '-x, -y, z'
+  8  'x, y, -z'
+  9  '-x+y, -x, z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, z'
+  12  '-y, x-y, -z'
+  13  '-y, -x, -z'
+  14  'y, x, z'
+  15  '-x, -x+y, -z'
+  16  'x, x-y, z'
+  17  '-x+y, y, -z'
+  18  'x-y, -y, z'
+  19  'y, x, -z'
+  20  '-y, -x, z'
+  21  'x, x-y, -z'
+  22  '-x, -x+y, z'
+  23  'x-y, -y, -z'
+  24  '-x+y, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_50
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   7.25203388
+_cell_length_b   7.25203388
+_cell_length_c   2.60425857
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   136.96315467
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.23674529  0.50000000  1
+  Au  Au1  4  0.23325685  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_51
+_symmetry_space_group_name_H-M   P3m1
+_cell_length_a   7.67867325
+_cell_length_b   7.67867325
+_cell_length_c   5.13743952
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   156
+_chemical_formula_structural   CuAu
+_cell_volume   262.33106882
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  '-y, -x, z'
+  5  '-x+y, y, z'
+  6  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.33601942  0.00338269  0.02034319  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.24369559  1
+  Cu  Cu2  1  0.66666667  0.33333333  0.27953350  1
+  Au  Au3  6  0.00004005  0.33298599  0.51408837  1
+  Au  Au4  1  0.33333333  0.66666667  0.21923068  1
+  Au  Au5  1  0.66666667  0.33333333  0.78869770  1
+# generated using pymatgen
+data_ID_52
+_symmetry_space_group_name_H-M   Pba2
+_cell_length_a   4.58922194
+_cell_length_b   7.85387347
+_cell_length_c   6.92662301
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   32
+_chemical_formula_structural   CuAu
+_cell_volume   249.65743970
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y+1/2, z'
+  4  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.02774257  0.66448365  0.47348657  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.08586038  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.43967023  1
+  Au  Au3  4  0.00796697  0.66693294  0.10379087  1
+  Au  Au4  4  0.18003071  0.85845396  0.76501028  1
+# generated using pymatgen
+data_ID_53
+_symmetry_space_group_name_H-M   P6_3/mcm
+_cell_length_a   7.64775848
+_cell_length_b   7.64775848
+_cell_length_c   9.91111587
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   193
+_chemical_formula_structural   CuAu
+_cell_volume   502.02057137
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  'x-y, x, z+1/2'
+  4  '-x+y, -x, -z+1/2'
+  5  '-y, x-y, z'
+  6  'y, -x+y, -z'
+  7  '-x, -y, z+1/2'
+  8  'x, y, -z+1/2'
+  9  '-x+y, -x, z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, z+1/2'
+  12  '-y, x-y, -z+1/2'
+  13  '-y, -x, -z'
+  14  'y, x, z'
+  15  '-x, -x+y, -z+1/2'
+  16  'x, x-y, z+1/2'
+  17  '-x+y, y, -z'
+  18  'x-y, -y, z'
+  19  'y, x, -z+1/2'
+  20  '-y, -x, z+1/2'
+  21  'x, x-y, -z'
+  22  '-x, -x+y, z'
+  23  'x-y, -y, -z+1/2'
+  24  '-x+y, y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.00000000  0.33541656  0.25000000  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au2  6  0.00000000  0.33773440  0.75000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.25000000  1
+# generated using pymatgen
+data_ID_54
+_symmetry_space_group_name_H-M   Imma
+_cell_length_a   5.45934545
+_cell_length_b   7.80314433
+_cell_length_c   5.35455125
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   74
+_chemical_formula_structural   CuAu
+_cell_volume   228.10420714
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y+1/2, z'
+  4  'x, y+1/2, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y+1/2, -z'
+  8  'x, -y+1/2, z'
+  9  'x+1/2, y+1/2, z+1/2'
+  10  '-x+1/2, -y+1/2, -z+1/2'
+  11  '-x+1/2, -y, z+1/2'
+  12  'x+1/2, y, -z+1/2'
+  13  'x+1/2, -y+1/2, -z+1/2'
+  14  '-x+1/2, y+1/2, z+1/2'
+  15  '-x+1/2, y, -z+1/2'
+  16  'x+1/2, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  4  0.25000000  0.25000000  0.75000000  1
+  Au  Au2  4  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  4  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_55
+_symmetry_space_group_name_H-M   P-6c2
+_cell_length_a   6.48216648
+_cell_length_b   6.48216648
+_cell_length_c   9.47926123
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   188
+_chemical_formula_structural   CuAu
+_cell_volume   344.94152969
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z+1/2'
+  3  '-y, x-y, z'
+  4  'x, y, -z+1/2'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z+1/2'
+  7  '-y, -x, -z'
+  8  'x, x-y, z+1/2'
+  9  '-x+y, y, -z'
+  10  '-y, -x, z+1/2'
+  11  'x, x-y, -z'
+  12  '-x+y, y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  2  0.33333333  0.66666667  0.00000000  1
+  Cu  Cu2  2  0.66666667  0.33333333  0.00000000  1
+  Cu  Cu3  2  0.66666667  0.33333333  0.25000000  1
+  Au  Au4  6  0.24119895  0.01951183  0.25000000  1
+  Au  Au5  2  0.33333333  0.66666667  0.25000000  1
+# generated using pymatgen
+data_ID_56
+_symmetry_space_group_name_H-M   Cmc2_1
+_cell_length_a   9.61302171
+_cell_length_b   10.96735431
+_cell_length_c   5.06389402
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   36
+_chemical_formula_structural   CuAu
+_cell_volume   533.88338475
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z+1/2'
+  3  '-x, y, z'
+  4  'x, -y, z+1/2'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.12694981  0.13368141  0.49450647  1
+  Cu  Cu1  4  0.00000000  0.29493901  0.23081868  1
+  Cu  Cu2  4  0.00000000  0.49239855  0.50028609  1
+  Au  Au3  8  0.13825895  0.32792592  0.77365679  1
+  Au  Au4  8  0.13918488  0.09828638  0.99209179  1
+# generated using pymatgen
+data_ID_57
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02656344
+_cell_length_b   3.02656344
+_cell_length_c   3.02656344
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.72358218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_58
+_symmetry_space_group_name_H-M   R3m
+_cell_length_a   8.56525816
+_cell_length_b   8.56525816
+_cell_length_c   5.24214593
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   160
+_chemical_formula_structural   CuAu
+_cell_volume   333.05860070
+_cell_formula_units_Z   12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x-y, z'
+  3  '-x+y, -x, z'
+  4  '-y, -x, z'
+  5  '-x+y, y, z'
+  6  'x, x-y, z'
+  7  'x+2/3, y+1/3, z+1/3'
+  8  '-y+2/3, x-y+1/3, z+1/3'
+  9  '-x+y+2/3, -x+1/3, z+1/3'
+  10  '-y+2/3, -x+1/3, z+1/3'
+  11  '-x+y+2/3, y+1/3, z+1/3'
+  12  'x+2/3, x-y+1/3, z+1/3'
+  13  'x+1/3, y+2/3, z+2/3'
+  14  '-y+1/3, x-y+2/3, z+2/3'
+  15  '-x+y+1/3, -x+2/3, z+2/3'
+  16  '-y+1/3, -x+2/3, z+2/3'
+  17  '-x+y+1/3, y+2/3, z+2/3'
+  18  'x+1/3, x-y+2/3, z+2/3'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  9  0.16901829  0.33803657  0.64511214  1
+  Cu  Cu1  3  0.00000000  0.00000000  0.29297183  1
+  Au  Au2  9  0.16869686  0.33739372  0.14465607  1
+  Au  Au3  3  0.00000000  0.00000000  0.79484100  1
+# generated using pymatgen
+data_ID_59
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02743907
+_cell_length_b   3.02743907
+_cell_length_c   3.02743907
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.74765181
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_60
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   2.79539994
+_cell_length_b   2.79539994
+_cell_length_c   3.57968700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   27.97260784
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_61
+_symmetry_space_group_name_H-M   P4_2/mnm
+_cell_length_a   9.09592348
+_cell_length_b   9.09592348
+_cell_length_c   2.76570636
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   136
+_chemical_formula_structural   CuAu
+_cell_volume   228.82299410
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y+1/2, x+1/2, z+1/2'
+  4  'y+1/2, -x+1/2, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y+1/2, -x+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+  9  'x+1/2, -y+1/2, -z+1/2'
+  10  '-x+1/2, y+1/2, z+1/2'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x+1/2, y+1/2, -z+1/2'
+  14  'x+1/2, -y+1/2, z+1/2'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.01185020  0.66179199  0.00000000  1
+  Au  Au1  4  0.10873155  0.89126845  0.50000000  1
+  Au  Au2  4  0.19469271  0.19469271  0.50000000  1
+# generated using pymatgen
+data_ID_62
+_symmetry_space_group_name_H-M   P1
+_cell_length_a   4.41541060
+_cell_length_b   5.47952507
+_cell_length_c   9.76954248
+_cell_angle_alpha   106.17381225
+_cell_angle_beta   90.17604734
+_cell_angle_gamma   90.00133070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAu
+_cell_volume   227.01141789
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.26706958  0.63330080  0.94012686  1
+  Cu  Cu1  1  0.26744993  0.12026979  0.94887696  1
+  Cu  Cu2  1  0.26760567  0.00549129  0.19761553  1
+  Cu  Cu3  1  0.26799327  0.87484873  0.43938505  1
+  Cu  Cu4  1  0.26807867  0.37255094  0.43904424  1
+  Cu  Cu5  1  0.76762365  0.79705159  0.27955012  1
+  Cu  Cu6  1  0.76847639  0.66318517  0.51785378  1
+  Cu  Cu7  1  0.76894887  0.53732491  0.77204509  1
+  Au  Au8  1  0.26724819  0.51880559  0.19407440  1
+  Au  Au9  1  0.26873365  0.25196744  0.69812786  1
+  Au  Au10  1  0.26880155  0.73391168  0.68157385  1
+  Au  Au11  1  0.76670781  0.41496984  0.01756238  1
+  Au  Au12  1  0.76738536  0.90960305  0.03043953  1
+  Au  Au13  1  0.76754543  0.29572725  0.27774400  1
+  Au  Au14  1  0.76799114  0.16192661  0.52156586  1
+  Au  Au15  1  0.76898353  0.02323708  0.77475157  1
+# generated using pymatgen
+data_ID_63
+_symmetry_space_group_name_H-M   Pmma
+_cell_length_a   5.21441176
+_cell_length_b   2.71207812
+_cell_length_c   8.35352978
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   51
+_chemical_formula_structural   CuAu
+_cell_volume   118.13471625
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z'
+  4  'x+1/2, y, -z'
+  5  'x+1/2, -y, -z'
+  6  '-x+1/2, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  2  0.25000000  0.50000000  0.69908890  1
+  Au  Au2  2  0.25000000  0.00000000  0.96489943  1
+  Au  Au3  2  0.25000000  0.50000000  0.26564739  1
+# generated using pymatgen
+data_ID_64
+_symmetry_space_group_name_H-M   C2
+_cell_length_a   6.51877206
+_cell_length_b   6.89090763
+_cell_length_c   10.72737225
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.05973729
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   5
+_chemical_formula_structural   CuAu
+_cell_volume   472.92676230
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, y, -z'
+  3  'x+1/2, y+1/2, z'
+  4  '-x+1/2, y+1/2, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.15943081  0.55340409  0.68298684  1
+  Cu  Cu1  4  0.17975204  0.49106319  0.46049132  1
+  Cu  Cu2  4  0.21097913  0.39440377  0.23712069  1
+  Cu  Cu3  2  0.00000000  0.80027369  0.50000000  1
+  Cu  Cu4  2  0.00000000  0.80307983  0.00000000  1
+  Au  Au5  4  0.00771714  0.16398789  0.62372756  1
+  Au  Au6  4  0.04855517  0.12101044  0.87686946  1
+  Au  Au7  4  0.10500204  0.77031502  0.24856118  1
+  Au  Au8  4  0.15068791  0.49629591  0.92003612  1
+# generated using pymatgen
+data_ID_65
+_symmetry_space_group_name_H-M   Ama2
+_cell_length_a   5.39667591
+_cell_length_b   12.61538834
+_cell_length_c   7.56553809
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   40
+_chemical_formula_structural   CuAu
+_cell_volume   515.07062641
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x+1/2, y, z'
+  4  'x+1/2, -y, z'
+  5  'x, y+1/2, z+1/2'
+  6  '-x, -y+1/2, z+1/2'
+  7  '-x+1/2, y+1/2, z+1/2'
+  8  'x+1/2, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.20793549  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.88581435  1
+  Cu  Cu2  4  0.25000000  0.15421815  0.02376351  1
+  Cu  Cu3  4  0.25000000  0.34584200  0.88145737  1
+  Au  Au4  8  0.00245285  0.19130228  0.70832499  1
+  Au  Au5  4  0.00000000  0.00000000  0.55021370  1
+  Au  Au6  4  0.25000000  0.15633122  0.37750846  1
+# generated using pymatgen
+data_ID_66
+_symmetry_space_group_name_H-M   Cmme
+_cell_length_a   9.26415059
+_cell_length_b   9.70866839
+_cell_length_c   9.83826170
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   67
+_chemical_formula_structural   CuAu
+_cell_volume   884.87850247
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z'
+  4  'x+1/2, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x+1/2, y, -z'
+  8  'x+1/2, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x, -y+1/2, z'
+  12  'x, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x, y+1/2, -z'
+  16  'x, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.13372966  0.25000000  0.55667156  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  4  0.25000000  0.00000000  0.50000000  1
+  Au  Au3  8  0.25000000  0.00000000  0.25916343  1
+  Au  Au4  4  0.25000000  0.00000000  0.00000000  1
+  Au  Au5  4  0.25000000  0.25000000  0.00000000  1
+# generated using pymatgen
+data_ID_67
+_symmetry_space_group_name_H-M   C2/m
+_cell_length_a   10.81323593
+_cell_length_b   7.66843546
+_cell_length_c   7.44879811
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.04128674
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   12
+_chemical_formula_structural   CuAu
+_cell_volume   517.76973320
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y, -z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.16462304  0.00000000  1
+  Cu  Cu1  4  0.23498900  0.50000000  0.71838085  1
+  Cu  Cu2  4  0.25000000  0.25000000  0.00000000  1
+  Cu  Cu3  2  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu4  2  0.00000000  0.50000000  0.00000000  1
+  Au  Au5  8  0.00095126  0.32171648  0.67937014  1
+  Au  Au6  8  0.24927968  0.32784034  0.33084632  1
+# generated using pymatgen
+data_ID_68
+_symmetry_space_group_name_H-M   P4/nmm
+_cell_length_a   3.88239819
+_cell_length_b   3.88239819
+_cell_length_c   7.51202548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   129
+_chemical_formula_structural   CuAu
+_cell_volume   113.22887814
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z'
+  3  '-x, -y, z'
+  4  'y+1/2, -x+1/2, z'
+  5  'x+1/2, -y+1/2, -z'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y+1/2, -z'
+  8  'y, x, -z'
+  9  '-x+1/2, -y+1/2, -z'
+  10  'y, -x, -z'
+  11  'x+1/2, y+1/2, -z'
+  12  '-y, x, -z'
+  13  '-x, y, z'
+  14  'y+1/2, x+1/2, z'
+  15  'x, -y, z'
+  16  '-y+1/2, -x+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  2  0.00000000  0.50000000  0.23347261  1
+  Au  Au2  2  0.00000000  0.00000000  0.50000000  1
+  Au  Au3  2  0.00000000  0.50000000  0.76946913  1
+# generated using pymatgen
+data_ID_69
+_symmetry_space_group_name_H-M   Pmmm
+_cell_length_a   2.66109418
+_cell_length_b   4.91597438
+_cell_length_c   4.91975347
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   47
+_chemical_formula_structural   CuAu
+_cell_volume   64.35957936
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.50000000  0.50000000  1
+  Au  Au2  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  1  0.50000000  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_70
+_symmetry_space_group_name_H-M   Pmm2
+_cell_length_a   2.68329476
+_cell_length_b   8.49526967
+_cell_length_c   10.84382018
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   25
+_chemical_formula_structural   CuAu
+_cell_volume   247.18827061
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.50000000  0.14028331  0.42413735  1
+  Cu  Cu1  2  0.50000000  0.24260322  0.72910164  1
+  Cu  Cu2  1  0.00000000  0.50000000  0.09224351  1
+  Cu  Cu3  1  0.00000000  0.50000000  0.33487495  1
+  Cu  Cu4  1  0.00000000  0.50000000  0.79774958  1
+  Cu  Cu5  1  0.50000000  0.00000000  0.85090958  1
+  Au  Au6  2  0.00000000  0.34553366  0.54532558  1
+  Au  Au7  2  0.50000000  0.27900202  0.21428092  1
+  Au  Au8  2  0.50000000  0.29408437  0.95767885  1
+  Au  Au9  1  0.00000000  0.00000000  0.61955683  1
+  Au  Au10  1  0.50000000  0.00000000  0.08807533  1
+# generated using pymatgen
+data_ID_71
+_symmetry_space_group_name_H-M   F-43m
+_cell_length_a   10.21731345
+_cell_length_b   10.21731345
+_cell_length_c   10.21731345
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   216
+_chemical_formula_structural   CuAu
+_cell_volume   1066.62105254
+_cell_formula_units_Z   32
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  'x, -y, -z'
+  6  'y, x, z'
+  7  '-x, y, -z'
+  8  '-y, -x, z'
+  9  'z, x, y'
+  10  '-z, y, -x'
+  11  'z, -x, -y'
+  12  '-z, -y, x'
+  13  '-z, x, -y'
+  14  'z, y, x'
+  15  '-z, -x, y'
+  16  'z, -y, -x'
+  17  'y, z, x'
+  18  '-x, -z, y'
+  19  '-y, z, -x'
+  20  'x, -z, -y'
+  21  '-y, -z, x'
+  22  'x, z, y'
+  23  'y, -z, -x'
+  24  '-x, z, -y'
+  25  'x+1/2, y+1/2, z'
+  26  'y+1/2, -x+1/2, -z'
+  27  '-x+1/2, -y+1/2, z'
+  28  '-y+1/2, x+1/2, -z'
+  29  'x+1/2, -y+1/2, -z'
+  30  'y+1/2, x+1/2, z'
+  31  '-x+1/2, y+1/2, -z'
+  32  '-y+1/2, -x+1/2, z'
+  33  'z+1/2, x+1/2, y'
+  34  '-z+1/2, y+1/2, -x'
+  35  'z+1/2, -x+1/2, -y'
+  36  '-z+1/2, -y+1/2, x'
+  37  '-z+1/2, x+1/2, -y'
+  38  'z+1/2, y+1/2, x'
+  39  '-z+1/2, -x+1/2, y'
+  40  'z+1/2, -y+1/2, -x'
+  41  'y+1/2, z+1/2, x'
+  42  '-x+1/2, -z+1/2, y'
+  43  '-y+1/2, z+1/2, -x'
+  44  'x+1/2, -z+1/2, -y'
+  45  '-y+1/2, -z+1/2, x'
+  46  'x+1/2, z+1/2, y'
+  47  'y+1/2, -z+1/2, -x'
+  48  '-x+1/2, z+1/2, -y'
+  49  'x+1/2, y, z+1/2'
+  50  'y+1/2, -x, -z+1/2'
+  51  '-x+1/2, -y, z+1/2'
+  52  '-y+1/2, x, -z+1/2'
+  53  'x+1/2, -y, -z+1/2'
+  54  'y+1/2, x, z+1/2'
+  55  '-x+1/2, y, -z+1/2'
+  56  '-y+1/2, -x, z+1/2'
+  57  'z+1/2, x, y+1/2'
+  58  '-z+1/2, y, -x+1/2'
+  59  'z+1/2, -x, -y+1/2'
+  60  '-z+1/2, -y, x+1/2'
+  61  '-z+1/2, x, -y+1/2'
+  62  'z+1/2, y, x+1/2'
+  63  '-z+1/2, -x, y+1/2'
+  64  'z+1/2, -y, -x+1/2'
+  65  'y+1/2, z, x+1/2'
+  66  '-x+1/2, -z, y+1/2'
+  67  '-y+1/2, z, -x+1/2'
+  68  'x+1/2, -z, -y+1/2'
+  69  '-y+1/2, -z, x+1/2'
+  70  'x+1/2, z, y+1/2'
+  71  'y+1/2, -z, -x+1/2'
+  72  '-x+1/2, z, -y+1/2'
+  73  'x, y+1/2, z+1/2'
+  74  'y, -x+1/2, -z+1/2'
+  75  '-x, -y+1/2, z+1/2'
+  76  '-y, x+1/2, -z+1/2'
+  77  'x, -y+1/2, -z+1/2'
+  78  'y, x+1/2, z+1/2'
+  79  '-x, y+1/2, -z+1/2'
+  80  '-y, -x+1/2, z+1/2'
+  81  'z, x+1/2, y+1/2'
+  82  '-z, y+1/2, -x+1/2'
+  83  'z, -x+1/2, -y+1/2'
+  84  '-z, -y+1/2, x+1/2'
+  85  '-z, x+1/2, -y+1/2'
+  86  'z, y+1/2, x+1/2'
+  87  '-z, -x+1/2, y+1/2'
+  88  'z, -y+1/2, -x+1/2'
+  89  'y, z+1/2, x+1/2'
+  90  '-x, -z+1/2, y+1/2'
+  91  '-y, z+1/2, -x+1/2'
+  92  'x, -z+1/2, -y+1/2'
+  93  '-y, -z+1/2, x+1/2'
+  94  'x, z+1/2, y+1/2'
+  95  'y, -z+1/2, -x+1/2'
+  96  '-x, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  24  0.00470431  0.25000000  0.75000000  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  4  0.25000000  0.25000000  0.75000000  1
+  Au  Au3  24  0.00000000  0.00000000  0.25839998  1
+  Au  Au4  4  0.00000000  0.00000000  0.00000000  1
+  Au  Au5  4  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_72
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   3.85983051
+_cell_length_b   3.85983051
+_cell_length_c   6.02635429
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   89.78238330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.29233360  1
+  Au  Au1  2  0.00000000  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_73
+_symmetry_space_group_name_H-M   Pcca
+_cell_length_a   8.98801832
+_cell_length_b   5.86765190
+_cell_length_c   4.80069564
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   54
+_chemical_formula_structural   CuAu
+_cell_volume   253.18178792
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x+1/2, -y, z'
+  4  'x+1/2, y, -z'
+  5  'x+1/2, -y, -z+1/2'
+  6  '-x+1/2, y, z+1/2'
+  7  '-x, y, -z+1/2'
+  8  'x, -y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu1  4  0.25000000  0.00000000  0.24945776  1
+  Au  Au2  8  0.12869541  0.37566952  0.99822620  1
+# generated using pymatgen
+data_ID_74
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   4.49838299
+_cell_length_b   4.49838299
+_cell_length_c   7.47084063
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   151.17581856
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu2  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.32437973  1
+  Au  Au4  2  0.50000000  0.50000000  0.16598205  1
+# generated using pymatgen
+data_ID_75
+_symmetry_space_group_name_H-M   P4_122
+_cell_length_a   7.44943942
+_cell_length_b   7.44943942
+_cell_length_c   4.87806441
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   91
+_chemical_formula_structural   CuAu
+_cell_volume   270.70402688
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x, z+1/4'
+  3  '-x, -y, z+1/2'
+  4  'y, -x, z+3/4'
+  5  'x, -y, -z+1/2'
+  6  '-y, -x, -z+1/4'
+  7  '-x, y, -z'
+  8  'y, x, -z+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00821078  0.20623741  0.74756600  1
+  Au  Au1  4  0.14342402  0.50000000  0.25000000  1
+  Au  Au2  4  0.32896332  0.32896332  0.87500000  1
+# generated using pymatgen
+data_ID_76
+_symmetry_space_group_name_H-M   P4_2/mmc
+_cell_length_a   5.02183520
+_cell_length_b   5.02183520
+_cell_length_c   9.91537689
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   131
+_chemical_formula_structural   CuAu
+_cell_volume   250.05419187
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z+1/2'
+  4  'y, -x, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z+1/2'
+  8  '-y, x, -z+1/2'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z+1/2'
+  12  'y, x, z+1/2'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z+1/2'
+  16  '-y, -x, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  2  0.00000000  0.00000000  0.25000000  1
+  Cu  Cu1  2  0.00000000  0.50000000  0.00000000  1
+  Au  Au2  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  2  0.00000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_77
+_symmetry_space_group_name_H-M   P4_2/mcm
+_cell_length_a   9.18646576
+_cell_length_b   9.18646576
+_cell_length_c   4.97894361
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   132
+_chemical_formula_structural   CuAu
+_cell_volume   420.17879281
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z+1/2'
+  4  'y, -x, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z+1/2'
+  8  '-y, x, -z+1/2'
+  9  'x, -y, -z+1/2'
+  10  '-x, y, z+1/2'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z+1/2'
+  14  'x, -y, z+1/2'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.00000000  0.50000000  0.25000000  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.25000000  1
+  Cu  Cu2  2  0.50000000  0.50000000  0.25000000  1
+  Au  Au3  8  0.04849079  0.25340887  0.00000000  1
+# generated using pymatgen
+data_ID_78
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02704880
+_cell_length_b   3.02704880
+_cell_length_c   3.02704880
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.73692221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_79
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   2.79074751
+_cell_length_b   2.79074751
+_cell_length_c   3.59267537
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   27.98073173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_80
+_symmetry_space_group_name_H-M   Fmmm
+_cell_length_a   5.46893417
+_cell_length_b   7.63818587
+_cell_length_c   10.93726295
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   69
+_chemical_formula_structural   CuAu
+_cell_volume   456.87939448
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y, z+1/2'
+  10  '-x+1/2, -y, -z+1/2'
+  11  '-x+1/2, -y, z+1/2'
+  12  'x+1/2, y, -z+1/2'
+  13  'x+1/2, -y, -z+1/2'
+  14  '-x+1/2, y, z+1/2'
+  15  '-x+1/2, y, -z+1/2'
+  16  'x+1/2, -y, z+1/2'
+  17  'x+1/2, y+1/2, z'
+  18  '-x+1/2, -y+1/2, -z'
+  19  '-x+1/2, -y+1/2, z'
+  20  'x+1/2, y+1/2, -z'
+  21  'x+1/2, -y+1/2, -z'
+  22  '-x+1/2, y+1/2, z'
+  23  '-x+1/2, y+1/2, -z'
+  24  'x+1/2, -y+1/2, z'
+  25  'x, y+1/2, z+1/2'
+  26  '-x, -y+1/2, -z+1/2'
+  27  '-x, -y+1/2, z+1/2'
+  28  'x, y+1/2, -z+1/2'
+  29  'x, -y+1/2, -z+1/2'
+  30  '-x, y+1/2, z+1/2'
+  31  '-x, y+1/2, -z+1/2'
+  32  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.00000000  0.38293809  1
+  Cu  Cu1  8  0.25000000  0.25000000  0.00000000  1
+  Au  Au2  8  0.00000000  0.00000000  0.12185609  1
+  Au  Au3  8  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_81
+_symmetry_space_group_name_H-M   Fm-3m
+_cell_length_a   10.20690636
+_cell_length_b   10.20690636
+_cell_length_c   10.20690636
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   225
+_chemical_formula_structural   CuAu
+_cell_volume   1063.36507252
+_cell_formula_units_Z   32
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z'
+  50  '-x+1/2, -y+1/2, -z'
+  51  '-y+1/2, x+1/2, z'
+  52  'y+1/2, -x+1/2, -z'
+  53  '-x+1/2, -y+1/2, z'
+  54  'x+1/2, y+1/2, -z'
+  55  'y+1/2, -x+1/2, z'
+  56  '-y+1/2, x+1/2, -z'
+  57  'x+1/2, -y+1/2, -z'
+  58  '-x+1/2, y+1/2, z'
+  59  '-y+1/2, -x+1/2, -z'
+  60  'y+1/2, x+1/2, z'
+  61  '-x+1/2, y+1/2, -z'
+  62  'x+1/2, -y+1/2, z'
+  63  'y+1/2, x+1/2, -z'
+  64  '-y+1/2, -x+1/2, z'
+  65  'z+1/2, x+1/2, y'
+  66  '-z+1/2, -x+1/2, -y'
+  67  'z+1/2, -y+1/2, x'
+  68  '-z+1/2, y+1/2, -x'
+  69  'z+1/2, -x+1/2, -y'
+  70  '-z+1/2, x+1/2, y'
+  71  'z+1/2, y+1/2, -x'
+  72  '-z+1/2, -y+1/2, x'
+  73  '-z+1/2, x+1/2, -y'
+  74  'z+1/2, -x+1/2, y'
+  75  '-z+1/2, -y+1/2, -x'
+  76  'z+1/2, y+1/2, x'
+  77  '-z+1/2, -x+1/2, y'
+  78  'z+1/2, x+1/2, -y'
+  79  '-z+1/2, y+1/2, x'
+  80  'z+1/2, -y+1/2, -x'
+  81  'y+1/2, z+1/2, x'
+  82  '-y+1/2, -z+1/2, -x'
+  83  'x+1/2, z+1/2, -y'
+  84  '-x+1/2, -z+1/2, y'
+  85  '-y+1/2, z+1/2, -x'
+  86  'y+1/2, -z+1/2, x'
+  87  '-x+1/2, z+1/2, y'
+  88  'x+1/2, -z+1/2, -y'
+  89  '-y+1/2, -z+1/2, x'
+  90  'y+1/2, z+1/2, -x'
+  91  '-x+1/2, -z+1/2, -y'
+  92  'x+1/2, z+1/2, y'
+  93  'y+1/2, -z+1/2, -x'
+  94  '-y+1/2, z+1/2, x'
+  95  'x+1/2, -z+1/2, y'
+  96  '-x+1/2, z+1/2, -y'
+  97  'x+1/2, y, z+1/2'
+  98  '-x+1/2, -y, -z+1/2'
+  99  '-y+1/2, x, z+1/2'
+  100  'y+1/2, -x, -z+1/2'
+  101  '-x+1/2, -y, z+1/2'
+  102  'x+1/2, y, -z+1/2'
+  103  'y+1/2, -x, z+1/2'
+  104  '-y+1/2, x, -z+1/2'
+  105  'x+1/2, -y, -z+1/2'
+  106  '-x+1/2, y, z+1/2'
+  107  '-y+1/2, -x, -z+1/2'
+  108  'y+1/2, x, z+1/2'
+  109  '-x+1/2, y, -z+1/2'
+  110  'x+1/2, -y, z+1/2'
+  111  'y+1/2, x, -z+1/2'
+  112  '-y+1/2, -x, z+1/2'
+  113  'z+1/2, x, y+1/2'
+  114  '-z+1/2, -x, -y+1/2'
+  115  'z+1/2, -y, x+1/2'
+  116  '-z+1/2, y, -x+1/2'
+  117  'z+1/2, -x, -y+1/2'
+  118  '-z+1/2, x, y+1/2'
+  119  'z+1/2, y, -x+1/2'
+  120  '-z+1/2, -y, x+1/2'
+  121  '-z+1/2, x, -y+1/2'
+  122  'z+1/2, -x, y+1/2'
+  123  '-z+1/2, -y, -x+1/2'
+  124  'z+1/2, y, x+1/2'
+  125  '-z+1/2, -x, y+1/2'
+  126  'z+1/2, x, -y+1/2'
+  127  '-z+1/2, y, x+1/2'
+  128  'z+1/2, -y, -x+1/2'
+  129  'y+1/2, z, x+1/2'
+  130  '-y+1/2, -z, -x+1/2'
+  131  'x+1/2, z, -y+1/2'
+  132  '-x+1/2, -z, y+1/2'
+  133  '-y+1/2, z, -x+1/2'
+  134  'y+1/2, -z, x+1/2'
+  135  '-x+1/2, z, y+1/2'
+  136  'x+1/2, -z, -y+1/2'
+  137  '-y+1/2, -z, x+1/2'
+  138  'y+1/2, z, -x+1/2'
+  139  '-x+1/2, -z, -y+1/2'
+  140  'x+1/2, z, y+1/2'
+  141  'y+1/2, -z, -x+1/2'
+  142  '-y+1/2, z, x+1/2'
+  143  'x+1/2, -z, y+1/2'
+  144  '-x+1/2, z, -y+1/2'
+  145  'x, y+1/2, z+1/2'
+  146  '-x, -y+1/2, -z+1/2'
+  147  '-y, x+1/2, z+1/2'
+  148  'y, -x+1/2, -z+1/2'
+  149  '-x, -y+1/2, z+1/2'
+  150  'x, y+1/2, -z+1/2'
+  151  'y, -x+1/2, z+1/2'
+  152  '-y, x+1/2, -z+1/2'
+  153  'x, -y+1/2, -z+1/2'
+  154  '-x, y+1/2, z+1/2'
+  155  '-y, -x+1/2, -z+1/2'
+  156  'y, x+1/2, z+1/2'
+  157  '-x, y+1/2, -z+1/2'
+  158  'x, -y+1/2, z+1/2'
+  159  'y, x+1/2, -z+1/2'
+  160  '-y, -x+1/2, z+1/2'
+  161  'z, x+1/2, y+1/2'
+  162  '-z, -x+1/2, -y+1/2'
+  163  'z, -y+1/2, x+1/2'
+  164  '-z, y+1/2, -x+1/2'
+  165  'z, -x+1/2, -y+1/2'
+  166  '-z, x+1/2, y+1/2'
+  167  'z, y+1/2, -x+1/2'
+  168  '-z, -y+1/2, x+1/2'
+  169  '-z, x+1/2, -y+1/2'
+  170  'z, -x+1/2, y+1/2'
+  171  '-z, -y+1/2, -x+1/2'
+  172  'z, y+1/2, x+1/2'
+  173  '-z, -x+1/2, y+1/2'
+  174  'z, x+1/2, -y+1/2'
+  175  '-z, y+1/2, x+1/2'
+  176  'z, -y+1/2, -x+1/2'
+  177  'y, z+1/2, x+1/2'
+  178  '-y, -z+1/2, -x+1/2'
+  179  'x, z+1/2, -y+1/2'
+  180  '-x, -z+1/2, y+1/2'
+  181  '-y, z+1/2, -x+1/2'
+  182  'y, -z+1/2, x+1/2'
+  183  '-x, z+1/2, y+1/2'
+  184  'x, -z+1/2, -y+1/2'
+  185  '-y, -z+1/2, x+1/2'
+  186  'y, z+1/2, -x+1/2'
+  187  '-x, -z+1/2, -y+1/2'
+  188  'x, z+1/2, y+1/2'
+  189  'y, -z+1/2, -x+1/2'
+  190  '-y, z+1/2, x+1/2'
+  191  'x, -z+1/2, y+1/2'
+  192  '-x, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  32  0.11912669  0.11912669  0.11912669  1
+  Au  Au1  32  0.13197359  0.13197359  0.36802641  1
+# generated using pymatgen
+data_ID_82
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   2.80035503
+_cell_length_b   2.80035503
+_cell_length_c   3.56642617
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   27.96787239
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_83
+_symmetry_space_group_name_H-M   I4/mmm
+_cell_length_a   7.58235840
+_cell_length_b   7.58235840
+_cell_length_c   7.88286595
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   139
+_chemical_formula_structural   CuAu
+_cell_volume   453.20298160
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-x+1/2, -y+1/2, -z+1/2'
+  19  '-y+1/2, x+1/2, z+1/2'
+  20  'y+1/2, -x+1/2, -z+1/2'
+  21  '-x+1/2, -y+1/2, z+1/2'
+  22  'x+1/2, y+1/2, -z+1/2'
+  23  'y+1/2, -x+1/2, z+1/2'
+  24  '-y+1/2, x+1/2, -z+1/2'
+  25  'x+1/2, -y+1/2, -z+1/2'
+  26  '-x+1/2, y+1/2, z+1/2'
+  27  '-y+1/2, -x+1/2, -z+1/2'
+  28  'y+1/2, x+1/2, z+1/2'
+  29  '-x+1/2, y+1/2, -z+1/2'
+  30  'x+1/2, -y+1/2, z+1/2'
+  31  'y+1/2, x+1/2, -z+1/2'
+  32  '-y+1/2, -x+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00000000  0.23993704  0.00000000  1
+  Cu  Cu1  4  0.00000000  0.00000000  0.24538982  1
+  Cu  Cu2  4  0.00000000  0.50000000  0.25000000  1
+  Au  Au3  8  0.00000000  0.26168105  0.50000000  1
+  Au  Au4  8  0.25000000  0.25000000  0.25000000  1
+# generated using pymatgen
+data_ID_84
+_symmetry_space_group_name_H-M   P4_2/nnm
+_cell_length_a   10.03095850
+_cell_length_b   10.03095850
+_cell_length_c   2.69683673
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   134
+_chemical_formula_structural   CuAu
+_cell_volume   271.35605788
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y+1/2, x+1/2, z+1/2'
+  3  '-x, -y, z'
+  4  'y+1/2, -x+1/2, z+1/2'
+  5  'x, -y, -z'
+  6  '-y+1/2, -x+1/2, -z+1/2'
+  7  '-x, y, -z'
+  8  'y+1/2, x+1/2, -z+1/2'
+  9  '-x+1/2, -y+1/2, -z+1/2'
+  10  'y, -x, -z'
+  11  'x+1/2, y+1/2, -z+1/2'
+  12  '-y, x, -z'
+  13  '-x+1/2, y+1/2, z+1/2'
+  14  'y, x, z'
+  15  'x+1/2, -y+1/2, z+1/2'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.10773098  0.10773098  0.21947632  1
+  Au  Au1  8  0.00000000  0.32768614  0.50000000  1
+# generated using pymatgen
+data_ID_85
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02657388
+_cell_length_b   3.02657388
+_cell_length_c   3.02657388
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.72386918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_86
+_symmetry_space_group_name_H-M   Cmm2
+_cell_length_a   5.29242872
+_cell_length_b   8.40892109
+_cell_length_c   14.08898224
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   35
+_chemical_formula_structural   CuAu
+_cell_volume   627.01064783
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  '-x, y, z'
+  4  'x, -y, z'
+  5  'x+1/2, y+1/2, z'
+  6  '-x+1/2, -y+1/2, z'
+  7  '-x+1/2, y+1/2, z'
+  8  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.24254544  0.50000000  0.83365358  1
+  Cu  Cu1  4  0.24871846  0.00000000  0.15031658  1
+  Cu  Cu2  4  0.24990229  0.50000000  0.32264039  1
+  Cu  Cu3  2  0.00000000  0.50000000  0.49166664  1
+  Cu  Cu4  2  0.00000000  0.50000000  0.67447888  1
+  Au  Au5  4  0.00000000  0.25037260  0.23715413  1
+  Au  Au6  4  0.25000000  0.25000000  0.42376098  1
+  Au  Au7  2  0.00000000  0.00000000  0.50265653  1
+  Au  Au8  2  0.00000000  0.00000000  0.68483563  1
+  Au  Au9  2  0.00000000  0.00000000  0.99052521  1
+  Au  Au10  2  0.00000000  0.50000000  0.99267864  1
+# generated using pymatgen
+data_ID_87
+_symmetry_space_group_name_H-M   P-62c
+_cell_length_a   7.71822825
+_cell_length_b   7.71822825
+_cell_length_c   4.73676891
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   190
+_chemical_formula_structural   CuAu
+_cell_volume   244.37009878
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z+1/2'
+  3  '-y, x-y, z'
+  4  'x, y, -z+1/2'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z+1/2'
+  7  'y, x, z+1/2'
+  8  '-x, -x+y, -z'
+  9  'x-y, -y, z+1/2'
+  10  'y, x, -z'
+  11  '-x, -x+y, z+1/2'
+  12  'x-y, -y, -z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.06009860  0.71327869  0.25000000  1
+  Cu  Cu1  2  0.33333333  0.66666667  0.25000000  1
+  Au  Au2  6  0.12168380  0.44989679  0.75000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.25000000  1
+# generated using pymatgen
+data_ID_88
+_symmetry_space_group_name_H-M   Ia-3d
+_cell_length_a   10.89875452
+_cell_length_b   10.89875452
+_cell_length_c   10.89875452
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   230
+_chemical_formula_structural   CuAu
+_cell_volume   1294.58512285
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y+1/4, x+3/4, z+1/4'
+  4  'y+1/4, -x+3/4, -z+1/4'
+  5  '-x+1/2, -y, z+1/2'
+  6  'x+1/2, y, -z+1/2'
+  7  'y+1/4, -x+1/4, z+3/4'
+  8  '-y+1/4, x+1/4, -z+3/4'
+  9  'x, -y, -z+1/2'
+  10  '-x, y, z+1/2'
+  11  '-y+1/4, -x+1/4, -z+1/4'
+  12  'y+1/4, x+1/4, z+1/4'
+  13  '-x+1/2, y, -z'
+  14  'x+1/2, -y, z'
+  15  'y+1/4, x+3/4, -z+3/4'
+  16  '-y+1/4, -x+3/4, z+3/4'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z+1/4, -y+1/4, x+3/4'
+  20  '-z+1/4, y+1/4, -x+3/4'
+  21  'z+1/2, -x+1/2, -y'
+  22  '-z+1/2, x+1/2, y'
+  23  'z+3/4, y+1/4, -x+1/4'
+  24  '-z+3/4, -y+1/4, x+1/4'
+  25  '-z+1/2, x, -y'
+  26  'z+1/2, -x, y'
+  27  '-z+1/4, -y+1/4, -x+1/4'
+  28  'z+1/4, y+1/4, x+1/4'
+  29  '-z, -x+1/2, y'
+  30  'z, x+1/2, -y'
+  31  '-z+3/4, y+1/4, x+3/4'
+  32  'z+3/4, -y+1/4, -x+3/4'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x+3/4, z+1/4, -y+1/4'
+  36  '-x+3/4, -z+1/4, y+1/4'
+  37  '-y, z+1/2, -x+1/2'
+  38  'y, -z+1/2, x+1/2'
+  39  '-x+1/4, z+3/4, y+1/4'
+  40  'x+1/4, -z+3/4, -y+1/4'
+  41  '-y, -z+1/2, x'
+  42  'y, z+1/2, -x'
+  43  '-x+1/4, -z+1/4, -y+1/4'
+  44  'x+1/4, z+1/4, y+1/4'
+  45  'y, -z, -x+1/2'
+  46  '-y, z, x+1/2'
+  47  'x+3/4, -z+3/4, y+1/4'
+  48  '-x+3/4, z+3/4, -y+1/4'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+3/4, x+1/4, z+3/4'
+  52  'y+3/4, -x+1/4, -z+3/4'
+  53  '-x, -y+1/2, z'
+  54  'x, y+1/2, -z'
+  55  'y+3/4, -x+3/4, z+1/4'
+  56  '-y+3/4, x+3/4, -z+1/4'
+  57  'x+1/2, -y+1/2, -z'
+  58  '-x+1/2, y+1/2, z'
+  59  '-y+3/4, -x+3/4, -z+3/4'
+  60  'y+3/4, x+3/4, z+3/4'
+  61  '-x, y+1/2, -z+1/2'
+  62  'x, -y+1/2, z+1/2'
+  63  'y+3/4, x+1/4, -z+1/4'
+  64  '-y+3/4, -x+1/4, z+1/4'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+3/4, -y+3/4, x+1/4'
+  68  '-z+3/4, y+3/4, -x+1/4'
+  69  'z, -x, -y+1/2'
+  70  '-z, x, y+1/2'
+  71  'z+1/4, y+3/4, -x+3/4'
+  72  '-z+1/4, -y+3/4, x+3/4'
+  73  '-z, x+1/2, -y+1/2'
+  74  'z, -x+1/2, y+1/2'
+  75  '-z+3/4, -y+3/4, -x+3/4'
+  76  'z+3/4, y+3/4, x+3/4'
+  77  '-z+1/2, -x, y+1/2'
+  78  'z+1/2, x, -y+1/2'
+  79  '-z+1/4, y+3/4, x+1/4'
+  80  'z+1/4, -y+3/4, -x+1/4'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/4, z+3/4, -y+3/4'
+  84  '-x+1/4, -z+3/4, y+3/4'
+  85  '-y+1/2, z, -x'
+  86  'y+1/2, -z, x'
+  87  '-x+3/4, z+1/4, y+3/4'
+  88  'x+3/4, -z+1/4, -y+3/4'
+  89  '-y+1/2, -z, x+1/2'
+  90  'y+1/2, z, -x+1/2'
+  91  '-x+3/4, -z+3/4, -y+3/4'
+  92  'x+3/4, z+3/4, y+3/4'
+  93  'y+1/2, -z+1/2, -x'
+  94  '-y+1/2, z+1/2, x'
+  95  'x+1/4, -z+1/4, y+3/4'
+  96  '-x+1/4, z+1/4, -y+3/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.12500000  0.12500000  0.12500000  1
+  Au  Au1  16  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_89
+_symmetry_space_group_name_H-M   P4/mmm
+_cell_length_a   2.78963047
+_cell_length_b   2.78963047
+_cell_length_c   3.59617314
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   123
+_chemical_formula_structural   CuAu
+_cell_volume   27.98555661
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_90
+_symmetry_space_group_name_H-M   P-3m1
+_cell_length_a   5.27919463
+_cell_length_b   5.27919463
+_cell_length_c   13.41345797
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   164
+_chemical_formula_structural   CuAu
+_cell_volume   323.74772919
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x-y, z'
+  4  'y, -x+y, -z'
+  5  '-x+y, -x, z'
+  6  'x-y, x, -z'
+  7  'y, x, -z'
+  8  '-y, -x, z'
+  9  'x-y, -y, -z'
+  10  '-x+y, y, z'
+  11  '-x, -x+y, -z'
+  12  'x, x-y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  3  0.00000000  0.50000000  0.50000000  1
+  Cu  Cu1  2  0.00000000  0.00000000  0.18649721  1
+  Cu  Cu2  2  0.33333333  0.66666667  0.35636719  1
+  Cu  Cu3  1  0.00000000  0.00000000  0.50000000  1
+  Au  Au4  3  0.00000000  0.50000000  0.00000000  1
+  Au  Au5  2  0.33333333  0.66666667  0.17288330  1
+  Au  Au6  2  0.33333333  0.66666667  0.82663996  1
+  Au  Au7  1  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_91
+_symmetry_space_group_name_H-M   Im-3m
+_cell_length_a   11.16771913
+_cell_length_b   11.16771913
+_cell_length_c   11.16771913
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   229
+_chemical_formula_structural   CuAu
+_cell_volume   1392.81504315
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+  49  'x+1/2, y+1/2, z+1/2'
+  50  '-x+1/2, -y+1/2, -z+1/2'
+  51  '-y+1/2, x+1/2, z+1/2'
+  52  'y+1/2, -x+1/2, -z+1/2'
+  53  '-x+1/2, -y+1/2, z+1/2'
+  54  'x+1/2, y+1/2, -z+1/2'
+  55  'y+1/2, -x+1/2, z+1/2'
+  56  '-y+1/2, x+1/2, -z+1/2'
+  57  'x+1/2, -y+1/2, -z+1/2'
+  58  '-x+1/2, y+1/2, z+1/2'
+  59  '-y+1/2, -x+1/2, -z+1/2'
+  60  'y+1/2, x+1/2, z+1/2'
+  61  '-x+1/2, y+1/2, -z+1/2'
+  62  'x+1/2, -y+1/2, z+1/2'
+  63  'y+1/2, x+1/2, -z+1/2'
+  64  '-y+1/2, -x+1/2, z+1/2'
+  65  'z+1/2, x+1/2, y+1/2'
+  66  '-z+1/2, -x+1/2, -y+1/2'
+  67  'z+1/2, -y+1/2, x+1/2'
+  68  '-z+1/2, y+1/2, -x+1/2'
+  69  'z+1/2, -x+1/2, -y+1/2'
+  70  '-z+1/2, x+1/2, y+1/2'
+  71  'z+1/2, y+1/2, -x+1/2'
+  72  '-z+1/2, -y+1/2, x+1/2'
+  73  '-z+1/2, x+1/2, -y+1/2'
+  74  'z+1/2, -x+1/2, y+1/2'
+  75  '-z+1/2, -y+1/2, -x+1/2'
+  76  'z+1/2, y+1/2, x+1/2'
+  77  '-z+1/2, -x+1/2, y+1/2'
+  78  'z+1/2, x+1/2, -y+1/2'
+  79  '-z+1/2, y+1/2, x+1/2'
+  80  'z+1/2, -y+1/2, -x+1/2'
+  81  'y+1/2, z+1/2, x+1/2'
+  82  '-y+1/2, -z+1/2, -x+1/2'
+  83  'x+1/2, z+1/2, -y+1/2'
+  84  '-x+1/2, -z+1/2, y+1/2'
+  85  '-y+1/2, z+1/2, -x+1/2'
+  86  'y+1/2, -z+1/2, x+1/2'
+  87  '-x+1/2, z+1/2, y+1/2'
+  88  'x+1/2, -z+1/2, -y+1/2'
+  89  '-y+1/2, -z+1/2, x+1/2'
+  90  'y+1/2, z+1/2, -x+1/2'
+  91  '-x+1/2, -z+1/2, -y+1/2'
+  92  'x+1/2, z+1/2, y+1/2'
+  93  'y+1/2, -z+1/2, -x+1/2'
+  94  '-y+1/2, z+1/2, x+1/2'
+  95  'x+1/2, -z+1/2, y+1/2'
+  96  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25000000  0.25000000  0.25000000  1
+  Cu  Cu1  6  0.00000000  0.00000000  0.50000000  1
+  Cu  Cu2  2  0.00000000  0.00000000  0.00000000  1
+  Au  Au3  16  0.12412164  0.12412164  0.12412164  1
+# generated using pymatgen
+data_ID_92
+_symmetry_space_group_name_H-M   Pmmm
+_cell_length_a   4.48564540
+_cell_length_b   7.13380266
+_cell_length_c   10.18140153
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   47
+_chemical_formula_structural   CuAu
+_cell_volume   325.80188737
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.50000000  0.32312825  0.37796449  1
+  Cu  Cu1  2  0.00000000  0.50000000  0.26416693  1
+  Cu  Cu2  2  0.25374585  0.00000000  0.50000000  1
+  Au  Au3  4  0.50000000  0.31876638  0.13160032  1
+  Au  Au4  2  0.00000000  0.31988632  0.50000000  1
+  Au  Au5  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au6  1  0.50000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_93
+_symmetry_space_group_name_H-M   P-6c2
+_cell_length_a   7.75223111
+_cell_length_b   7.75223111
+_cell_length_c   5.06784334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   188
+_chemical_formula_structural   CuAu
+_cell_volume   263.75896833
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x+y, -x, -z+1/2'
+  3  '-y, x-y, z'
+  4  'x, y, -z+1/2'
+  5  '-x+y, -x, z'
+  6  '-y, x-y, -z+1/2'
+  7  '-y, -x, -z'
+  8  'x, x-y, z+1/2'
+  9  '-x+y, y, -z'
+  10  '-y, -x, z+1/2'
+  11  'x, x-y, -z'
+  12  '-x+y, y, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  6  0.05464891  0.36692455  0.25000000  1
+  Cu  Cu1  2  0.66666667  0.33333333  0.00000000  1
+  Au  Au2  6  0.36901862  0.05402507  0.75000000  1
+  Au  Au3  2  0.00000000  0.00000000  0.25000000  1
+# generated using pymatgen
+data_ID_94
+_symmetry_space_group_name_H-M   I4_1/amd
+_cell_length_a   7.24960657
+_cell_length_b   7.24960657
+_cell_length_c   11.11301283
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   141
+_chemical_formula_structural   CuAu
+_cell_volume   584.06434165
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-y, x+1/2, z+1/4'
+  3  '-x+1/2, -y+1/2, z+1/2'
+  4  'y+1/2, -x, z+3/4'
+  5  'x, -y+1/2, -z+1/4'
+  6  '-y, -x, -z'
+  7  '-x+1/2, y, -z+3/4'
+  8  'y+1/2, x+1/2, -z+1/2'
+  9  '-x, -y+1/2, -z+1/4'
+  10  'y, -x, -z'
+  11  'x+1/2, y, -z+3/4'
+  12  '-y+1/2, x+1/2, -z+1/2'
+  13  '-x, y, z'
+  14  'y, x+1/2, z+1/4'
+  15  'x+1/2, -y+1/2, z+1/2'
+  16  '-y+1/2, -x, z+3/4'
+  17  'x+1/2, y+1/2, z+1/2'
+  18  '-y+1/2, x, z+3/4'
+  19  '-x, -y, z'
+  20  'y, -x+1/2, z+1/4'
+  21  'x+1/2, -y, -z+3/4'
+  22  '-y+1/2, -x+1/2, -z+1/2'
+  23  '-x, y+1/2, -z+1/4'
+  24  'y, x, -z'
+  25  '-x+1/2, -y, -z+3/4'
+  26  'y+1/2, -x+1/2, -z+1/2'
+  27  'x, y+1/2, -z+1/4'
+  28  '-y, x, -z'
+  29  '-x+1/2, y+1/2, z+1/2'
+  30  'y+1/2, x, z+3/4'
+  31  'x, -y, z'
+  32  '-y, -x+1/2, z+1/4'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  16  0.00000000  0.17672400  0.92331296  1
+  Au  Au1  16  0.18762684  0.31237316  0.75000000  1
+# generated using pymatgen
+data_ID_95
+_symmetry_space_group_name_H-M   I222
+_cell_length_a   5.50430247
+_cell_length_b   7.15067420
+_cell_length_c   12.62302975
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   23
+_chemical_formula_structural   CuAu
+_cell_volume   496.83580740
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, z'
+  3  'x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, y+1/2, z+1/2'
+  6  '-x+1/2, -y+1/2, z+1/2'
+  7  'x+1/2, -y+1/2, -z+1/2'
+  8  '-x+1/2, y+1/2, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.00104673  0.18124740  0.69309917  1
+  Cu  Cu1  4  0.00000000  0.18167956  0.00000000  1
+  Cu  Cu2  4  0.00000000  0.50000000  0.17303724  1
+  Au  Au3  8  0.24255648  0.99987243  0.15748943  1
+  Au  Au4  4  0.00000000  0.31540035  0.50000000  1
+  Au  Au5  4  0.24869700  0.50000000  0.00000000  1
+# generated using pymatgen
+data_ID_96
+_symmetry_space_group_name_H-M   P-4c2
+_cell_length_a   5.77393315
+_cell_length_b   5.77393315
+_cell_length_c   8.79258963
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   116
+_chemical_formula_structural   CuAu
+_cell_volume   293.13002615
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  'y, -x, -z'
+  3  '-x, -y, z'
+  4  '-y, x, -z'
+  5  '-x, y, z+1/2'
+  6  '-y, -x, -z+1/2'
+  7  'x, -y, z+1/2'
+  8  'y, x, -z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.22006028  0.22006028  0.75000000  1
+  Cu  Cu1  2  0.50000000  0.50000000  0.00000000  1
+  Cu  Cu2  2  0.50000000  0.50000000  0.25000000  1
+  Au  Au3  4  0.00000000  0.50000000  0.04939348  1
+  Au  Au4  4  0.20834573  0.20834573  0.25000000  1
+# generated using pymatgen
+data_ID_97
+_symmetry_space_group_name_H-M   Pm-3n
+_cell_length_a   6.80156242
+_cell_length_b   6.80156242
+_cell_length_c   6.80156242
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   223
+_chemical_formula_structural   CuAu
+_cell_volume   314.64878894
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y+1/2, x+1/2, z+1/2'
+  4  'y+1/2, -x+1/2, -z+1/2'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y+1/2, -x+1/2, z+1/2'
+  8  '-y+1/2, x+1/2, -z+1/2'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y+1/2, -x+1/2, -z+1/2'
+  12  'y+1/2, x+1/2, z+1/2'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y+1/2, x+1/2, -z+1/2'
+  16  '-y+1/2, -x+1/2, z+1/2'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z+1/2, -y+1/2, x+1/2'
+  20  '-z+1/2, y+1/2, -x+1/2'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z+1/2, y+1/2, -x+1/2'
+  24  '-z+1/2, -y+1/2, x+1/2'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z+1/2, -y+1/2, -x+1/2'
+  28  'z+1/2, y+1/2, x+1/2'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z+1/2, y+1/2, x+1/2'
+  32  'z+1/2, -y+1/2, -x+1/2'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x+1/2, z+1/2, -y+1/2'
+  36  '-x+1/2, -z+1/2, y+1/2'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x+1/2, z+1/2, y+1/2'
+  40  'x+1/2, -z+1/2, -y+1/2'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x+1/2, -z+1/2, -y+1/2'
+  44  'x+1/2, z+1/2, y+1/2'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x+1/2, -z+1/2, y+1/2'
+  48  '-x+1/2, z+1/2, -y+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  8  0.25000000  0.25000000  0.25000000  1
+  Au  Au1  6  0.00000000  0.50000000  0.25000000  1
+  Au  Au2  2  0.00000000  0.00000000  0.00000000  1
+# generated using pymatgen
+data_ID_98
+_symmetry_space_group_name_H-M   Pm-3m
+_cell_length_a   3.02757519
+_cell_length_b   3.02757519
+_cell_length_c   3.02757519
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   221
+_chemical_formula_structural   CuAu
+_cell_volume   27.75139468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-y, x, z'
+  4  'y, -x, -z'
+  5  '-x, -y, z'
+  6  'x, y, -z'
+  7  'y, -x, z'
+  8  '-y, x, -z'
+  9  'x, -y, -z'
+  10  '-x, y, z'
+  11  '-y, -x, -z'
+  12  'y, x, z'
+  13  '-x, y, -z'
+  14  'x, -y, z'
+  15  'y, x, -z'
+  16  '-y, -x, z'
+  17  'z, x, y'
+  18  '-z, -x, -y'
+  19  'z, -y, x'
+  20  '-z, y, -x'
+  21  'z, -x, -y'
+  22  '-z, x, y'
+  23  'z, y, -x'
+  24  '-z, -y, x'
+  25  '-z, x, -y'
+  26  'z, -x, y'
+  27  '-z, -y, -x'
+  28  'z, y, x'
+  29  '-z, -x, y'
+  30  'z, x, -y'
+  31  '-z, y, x'
+  32  'z, -y, -x'
+  33  'y, z, x'
+  34  '-y, -z, -x'
+  35  'x, z, -y'
+  36  '-x, -z, y'
+  37  '-y, z, -x'
+  38  'y, -z, x'
+  39  '-x, z, y'
+  40  'x, -z, -y'
+  41  '-y, -z, x'
+  42  'y, z, -x'
+  43  '-x, -z, -y'
+  44  'x, z, y'
+  45  'y, -z, -x'
+  46  '-y, z, x'
+  47  'x, -z, y'
+  48  '-x, z, -y'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1
+  Au  Au1  1  0.50000000  0.50000000  0.50000000  1
+# generated using pymatgen
+data_ID_99
+_symmetry_space_group_name_H-M   Cmmm
+_cell_length_a   5.87410202
+_cell_length_b   6.72527297
+_cell_length_c   2.81654933
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   65
+_chemical_formula_structural   CuAu
+_cell_volume   111.26761094
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, -y, z'
+  4  'x, y, -z'
+  5  'x, -y, -z'
+  6  '-x, y, z'
+  7  '-x, y, -z'
+  8  'x, -y, z'
+  9  'x+1/2, y+1/2, z'
+  10  '-x+1/2, -y+1/2, -z'
+  11  '-x+1/2, -y+1/2, z'
+  12  'x+1/2, y+1/2, -z'
+  13  'x+1/2, -y+1/2, -z'
+  14  '-x+1/2, y+1/2, z'
+  15  '-x+1/2, y+1/2, -z'
+  16  'x+1/2, -y+1/2, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  4  0.21934742  0.50000000  0.00000000  1
+  Au  Au1  4  0.00000000  0.22464442  0.50000000  1

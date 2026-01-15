@@ -1,0 +1,31 @@
+from ase.constraints import FixSymmetry
+from ase.filters import FrechetCellFilter
+from ase.calculators.emt import EMT
+from ase.optimize import BFGS
+import numpy as np
+from ase.io import read, write
+
+# ---------- input structure
+# CrySPY outputs 'POSCAR' as an input file in work/xxxxxx directory
+atoms = read('POSCAR', format='vasp')
+
+# ---------- setting and run
+atoms.calc = EMT()
+atoms.set_constraint([FixSymmetry(atoms)])
+cell_filter = FrechetCellFilter(atoms, hydrostatic_strain=False)
+opt = BFGS(cell_filter)
+opt.run(fmax=0.05, steps=2000)
+
+# ---------- opt. structure and energy
+# [rule in ASE interface]
+# output file for energy: 'log.tote' in eV/cell
+#                         CrySPY reads the last line of 'log.tote'
+# output file for structure: 'CONTCAR' in vasp format
+e = cell_filter.atoms.get_total_energy()
+with open('log.tote', mode='w') as f:
+    f.write(str(e))
+
+# ------ write structure
+opt_atoms = cell_filter.atoms.copy()
+opt_atoms.set_constraint(None)    # remove constraint for pymatgen
+write('CONTCAR', opt_atoms, format='vasp', direct=True)

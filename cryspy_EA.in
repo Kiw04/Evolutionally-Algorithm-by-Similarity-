@@ -1,0 +1,18 @@
+[basic]
+algo = RS
+calc_code = ASE
+tot_struc = 100
+nstage = 2
+njob = 100
+jobcmd = zsh
+jobfile = job_cryspy
+
+[structure]
+atype = Si
+nat = 16
+natot = 16
+
+[ASE]
+ase_python = ase_in.py
+
+[option]

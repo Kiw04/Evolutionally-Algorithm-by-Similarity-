@@ -1,0 +1,17 @@
+#!/bin/sh
+#$ -cwd
+#$ -V -S /bin/bash
+####$ -V -S /bin/zsh
+#$ -N Si_CrySPY_ID
+#$ -pe smp 20
+####$ -q ibis1.q
+####$ -q ibis2.q
+####$ -q ibis3.q
+####$ -q ibis4.q
+
+# ---------- vasp
+VASPROOT=/usr/local/vasp/vasp.6.4.2/bin
+mpirun -np $NSLOTS $VASPROOT/vasp_std
+
+# ---------- CrySPY
+sed -i -e '3 s/^.*$/done/' stat_job

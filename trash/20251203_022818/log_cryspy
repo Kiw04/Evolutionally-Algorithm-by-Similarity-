@@ -1,0 +1,86 @@
+[2025-12-03 02:28:18,060][cryspy_init][INFO] 
+
+
+Start CrySPY 1.4.0b10
+
+
+[2025-12-03 02:28:18,062][cryspy_init][INFO] # ---------- Library version info
+[2025-12-03 02:28:18,071][cryspy_init][INFO] pandas version: 2.3.2
+[2025-12-03 02:28:18,103][cryspy_init][INFO] pymatgen version: 2025.6.14
+[2025-12-03 02:28:18,114][cryspy_init][INFO] pyxtal version: 1.1.0
+[2025-12-03 02:28:18,174][cryspy_init][INFO] # ---------- Read input file, cryspy.in
+[2025-12-03 02:28:18,188][write_input][INFO] [basic]
+[2025-12-03 02:28:18,195][write_input][INFO] algo = EA
+[2025-12-03 02:28:18,197][write_input][INFO] calc_code = ASE
+[2025-12-03 02:28:18,200][write_input][INFO] nstage = 100
+[2025-12-03 02:28:18,202][write_input][INFO] njob = 100
+[2025-12-03 02:28:18,205][write_input][INFO] jobcmd = zsh
+[2025-12-03 02:28:18,208][write_input][INFO] jobfile = job_cryspy
+[2025-12-03 02:28:18,210][write_input][INFO] 
+[2025-12-03 02:28:18,212][write_input][INFO] [structure]
+[2025-12-03 02:28:18,214][write_input][INFO] struc_mode = crystal
+[2025-12-03 02:28:18,215][write_input][INFO] atype = ('Si',)
+[2025-12-03 02:28:18,217][write_input][INFO] nat = (8,)
+[2025-12-03 02:28:18,221][write_input][INFO] mindist_factor = 1.0
+[2025-12-03 02:28:18,225][write_input][INFO] vol_factor = 1.1
+[2025-12-03 02:28:18,227][write_input][INFO] symprec = 0.01
+[2025-12-03 02:28:18,228][write_input][INFO] spgnum = all
+[2025-12-03 02:28:18,230][write_input][INFO] use_find_wy = False
+[2025-12-03 02:28:18,231][write_input][INFO] 
+[2025-12-03 02:28:18,237][write_input][INFO] [option]
+[2025-12-03 02:28:18,299][write_input][INFO] stop_chkpt = 0
+[2025-12-03 02:28:18,309][write_input][INFO] load_struc_flag = False
+[2025-12-03 02:28:18,315][write_input][INFO] stop_next_struc = False
+[2025-12-03 02:28:18,326][write_input][INFO] append_struc_ea = False
+[2025-12-03 02:28:18,331][write_input][INFO] energy_step_flag = False
+[2025-12-03 02:28:18,336][write_input][INFO] struc_step_flag = False
+[2025-12-03 02:28:18,350][write_input][INFO] force_step_flag = False
+[2025-12-03 02:28:18,355][write_input][INFO] stress_step_flag = False
+[2025-12-03 02:28:18,369][write_input][INFO] 
+[2025-12-03 02:28:18,388][write_input][INFO] [EA]
+[2025-12-03 02:28:18,439][write_input][INFO] n_pop = 8
+[2025-12-03 02:28:18,449][write_input][INFO] n_crsov = 5
+[2025-12-03 02:28:18,454][write_input][INFO] n_perm = 0
+[2025-12-03 02:28:18,470][write_input][INFO] n_strain = 2
+[2025-12-03 02:28:18,478][write_input][INFO] n_rand = 1
+[2025-12-03 02:28:18,483][write_input][INFO] n_elite = 2
+[2025-12-03 02:28:18,487][write_input][INFO] fit_reverse = False
+[2025-12-03 02:28:18,501][write_input][INFO] n_fittest = 5
+[2025-12-03 02:28:18,517][write_input][INFO] slct_func = TNM
+[2025-12-03 02:28:18,518][write_input][INFO] t_size = 2
+[2025-12-03 02:28:18,526][write_input][INFO] crs_lat = random
+[2025-12-03 02:28:18,535][write_input][INFO] nat_diff_tole = 4
+[2025-12-03 02:28:18,537][write_input][INFO] sigma_st = 0.5
+[2025-12-03 02:28:18,540][write_input][INFO] maxcnt_ea = 50
+[2025-12-03 02:28:18,543][write_input][INFO] maxgen_ea = 0
+[2025-12-03 02:28:18,544][write_input][INFO] 
+[2025-12-03 02:28:18,546][write_input][INFO] [ASE]
+[2025-12-03 02:28:18,547][write_input][INFO] kpt_flag = False
+[2025-12-03 02:28:18,549][write_input][INFO] force_gamma = False
+[2025-12-03 02:28:18,551][write_input][INFO] ase_python = ase_in.py
+[2025-12-03 02:28:18,554][rs_gen][INFO] # ---------- Initial structure generation
+[2025-12-03 02:28:18,557][rs_gen][INFO] # ------ mindist
+[2025-12-03 02:28:18,564][struc_util][INFO] Si - Si: 1.11
+[2025-12-03 02:28:18,566][rs_gen][INFO] # ------ generate structures
+[2025-12-03 02:28:18,737][gen_pyxtal][INFO] Structure ID      0: (8,) Space group:   4 -->   4 P2_1
+[2025-12-03 02:28:18,835][gen_pyxtal][INFO] Structure ID      1: (8,) Space group: 194 --> 194 P6_3/mmc
+[2025-12-03 02:28:18,934][gen_pyxtal][INFO] Structure ID      2: (8,) Space group: 134 --> 131 P4_2/mmc
+[2025-12-03 02:28:19,433][gen_pyxtal][INFO] Structure ID      3: (8,) Space group:  44 -->  44 Imm2
+[2025-12-03 02:28:19,506][gen_pyxtal][INFO] Structure ID      4: (8,) Space group:  90 --> 129 P4/nmm
+[2025-12-03 02:28:19,546][gen_pyxtal][INFO] Structure ID      5: (8,) Space group: 133 --> 123 P4/mmm
+[2025-12-03 02:28:19,588][gen_pyxtal][INFO] Structure ID      6: (8,) Space group: 101 --> 101 P4_2cm
+[2025-12-03 02:28:19,625][gen_pyxtal][INFO] Structure ID      7: (8,) Space group:  80 -->  80 I4_1
+[2025-12-03 02:28:21,117][cryspy_init][INFO] Elapsed time for structure generation: 0:00:02.562888
+[2025-12-03 02:28:21,140][ea_init][INFO] # ---------- Initialize evolutionary algorithm
+[2025-12-03 02:28:21,143][ea_init][INFO] # ------ Generation 1
+[2025-12-03 02:28:21,146][ea_init][INFO] 8 structures by random
+[2025-12-03 02:28:28,447][cryspy_restart][INFO] 
+
+
+Restart CrySPY 1.4.0b10
+
+
+[2025-12-03 02:28:28,470][cryspy_restart][INFO] read input, cryspy.in
+[2025-12-03 02:29:19,873][ctrl_job][INFO] Done generation 1
+[2025-12-03 02:29:19,875][ctrl_job][INFO] 
+EA is ready

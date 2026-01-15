@@ -1,0 +1,24 @@
+MatterSim Batch Optimization Results
+Model: MatterSim-v1.0.0-5M.pth, fmax: 0.01
+
+Rank  | Filename                  | E/Atom     | Delta E    | Init SG    | Final SG  
+--------------------------------------------------------------------------------------
+1     | 46_POSCAR                 | -5.4033    | -9.3379    | P m m n    | P 63/m m c
+2     | 92_POSCAR                 | -5.2004    | -10.0000   | R -3       | C 2/m     
+3     | 83_POSCAR                 | -5.1936    | -11.4938   | I 41       | I 41/a    
+4     | 88_POSCAR                 | -5.1231    | -10.8427   | P 63/m c m | P 63/m c m
+5     | 47_POSCAR                 | -5.0887    | -3.9291    | P a -3     | P a -3    
+6     | 29_POSCAR                 | -5.0869    | -10.7182   | P 2 2 21   | C m c m   
+7     | 39_POSCAR                 | -5.0868    | -6.4466    | I -4 3 m   | P m -3 m  
+8     | 72_POSCAR                 | -5.0868    | -2.1218    | P m -3 m   | P m -3 m  
+9     | 96_POSCAR                 | -5.0708    | -8.8230    | P 1        | P 1       
+10    | 3_POSCAR                  | -4.9768    | -6.6932    | P 2 2 21   | P 2 2 21  
+11    | 12_POSCAR                 | -4.9584    | -8.4103    | P 6/m m m  | P 6/m m m 
+12    | 1_POSCAR                  | -4.9530    | -4.0810    | P 42/m m c | I 4/m m m 
+13    | 24_POSCAR                 | -4.9259    | -5.9878    | F d -3 m   | F m -3 m  
+14    | 84_POSCAR                 | -4.8205    | -6.0227    | P m -3 n   | P m -3 n  
+15    | 67_POSCAR                 | -4.7971    | -5.4573    | P 2 2 21   | P 2 2 21  
+16    | 99_POSCAR                 | -4.7735    | -0.4113    | I 41 3 2   | I 41 3 2  
+17    | 26_POSCAR                 | -4.7735    | -1.7821    | I 41 3 2   | I 41 3 2  
+18    | 63_POSCAR                 | -4.7464    | -7.4654    | A m m 2    | C m m m   
+19    | 35_POSCAR                 | -4.3040    | -0.8982    | I 41/a m d | I 41/a m d

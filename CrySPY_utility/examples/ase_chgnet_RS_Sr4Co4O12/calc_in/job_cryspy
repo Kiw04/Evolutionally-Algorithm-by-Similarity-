@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# ---------- OpenMP
+export OMP_NUM_THREADS=1
+
+# ---------- ASE
+python3 chgnet_in.py > out.log
+
+# ---------- for error
+if [ ! -f "log.tote" ]; then
+    sed -i -e '3 s/^.*$/skip/' stat_job
+    exit 1
+fi
+
+# ---------- CrySPY
+sed -i -e '3 s/^.*$/done/' stat_job

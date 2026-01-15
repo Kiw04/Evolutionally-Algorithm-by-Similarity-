@@ -1,0 +1,160 @@
+[2025-09-19 14:39:49,472][cryspy_init][INFO] 
+
+
+Start CrySPY 1.4.0b10
+
+
+[2025-09-19 14:39:49,474][cryspy_init][INFO] # ---------- Library version info
+[2025-09-19 14:39:49,476][cryspy_init][INFO] pandas version: 2.3.2
+[2025-09-19 14:39:49,482][cryspy_init][INFO] pymatgen version: 2025.6.14
+[2025-09-19 14:39:49,484][cryspy_init][INFO] pyxtal version: 1.1.0
+[2025-09-19 14:39:49,545][cryspy_init][INFO] # ---------- Read input file, cryspy.in
+[2025-09-19 14:39:49,559][write_input][INFO] [basic]
+[2025-09-19 14:39:49,577][write_input][INFO] algo = RS
+[2025-09-19 14:39:49,578][write_input][INFO] calc_code = ASE
+[2025-09-19 14:39:49,625][write_input][INFO] tot_struc = 100
+[2025-09-19 14:39:49,631][write_input][INFO] nstage = 2
+[2025-09-19 14:39:49,634][write_input][INFO] njob = 100
+[2025-09-19 14:39:49,639][write_input][INFO] jobcmd = zsh
+[2025-09-19 14:39:49,644][write_input][INFO] jobfile = job_cryspy
+[2025-09-19 14:39:49,875][write_input][INFO] 
+[2025-09-19 14:39:49,881][write_input][INFO] [structure]
+[2025-09-19 14:39:49,888][write_input][INFO] struc_mode = crystal
+[2025-09-19 14:39:49,892][write_input][INFO] atype = ('Cu', 'Au')
+[2025-09-19 14:39:49,898][write_input][INFO] nat = (8, 8)
+[2025-09-19 14:39:49,902][write_input][INFO] mindist_factor = 1.0
+[2025-09-19 14:39:49,911][write_input][INFO] vol_factor = 1.1
+[2025-09-19 14:39:49,916][write_input][INFO] symprec = 0.01
+[2025-09-19 14:39:49,918][write_input][INFO] spgnum = all
+[2025-09-19 14:39:49,919][write_input][INFO] use_find_wy = False
+[2025-09-19 14:39:49,921][write_input][INFO] 
+[2025-09-19 14:39:49,924][write_input][INFO] [option]
+[2025-09-19 14:39:49,925][write_input][INFO] stop_chkpt = 0
+[2025-09-19 14:39:49,927][write_input][INFO] load_struc_flag = False
+[2025-09-19 14:39:49,928][write_input][INFO] stop_next_struc = False
+[2025-09-19 14:39:49,933][write_input][INFO] append_struc_ea = False
+[2025-09-19 14:39:49,960][write_input][INFO] energy_step_flag = False
+[2025-09-19 14:39:49,971][write_input][INFO] struc_step_flag = False
+[2025-09-19 14:39:49,976][write_input][INFO] force_step_flag = False
+[2025-09-19 14:39:49,979][write_input][INFO] stress_step_flag = False
+[2025-09-19 14:39:49,981][write_input][INFO] 
+[2025-09-19 14:39:49,983][write_input][INFO] [ASE]
+[2025-09-19 14:39:49,988][write_input][INFO] kpt_flag = False
+[2025-09-19 14:39:49,991][write_input][INFO] force_gamma = False
+[2025-09-19 14:39:50,000][write_input][INFO] ase_python = ase_in.py
+[2025-09-19 14:39:50,009][rs_gen][INFO] # ---------- Initial structure generation
+[2025-09-19 14:39:50,013][rs_gen][INFO] # ------ mindist
+[2025-09-19 14:39:50,028][struc_util][INFO] Cu - Cu: 1.32
+[2025-09-19 14:39:50,030][struc_util][INFO] Cu - Au: 1.34
+[2025-09-19 14:39:50,033][struc_util][INFO] Au - Au: 1.36
+[2025-09-19 14:39:50,037][rs_gen][INFO] # ------ generate structures
+[2025-09-19 14:39:50,495][gen_pyxtal][INFO] Structure ID      0: (8, 8) Space group: 223 --> 221 Pm-3m
+[2025-09-19 14:39:50,548][gen_pyxtal][INFO] Structure ID      1: (8, 8) Space group:  60 -->  60 Pbcn
+[2025-09-19 14:39:50,787][gen_pyxtal][INFO] Structure ID      2: (8, 8) Space group:  81 -->  81 P-4
+[2025-09-19 14:39:50,824][gen_pyxtal][INFO] Structure ID      3: (8, 8) Space group: 213 --> 213 P4_132
+[2025-09-19 14:40:18,352][gen_pyxtal][INFO] Structure ID      4: (8, 8) Space group: 197 --> 217 I-43m
+[2025-09-19 14:40:18,442][gen_pyxtal][INFO] Structure ID      5: (8, 8) Space group:  20 -->  20 C222_1
+[2025-09-19 14:40:18,478][gen_pyxtal][INFO] Structure ID      6: (8, 8) Space group: 101 --> 101 P4_2cm
+[2025-09-19 14:40:18,644][gen_pyxtal][INFO] Structure ID      7: (8, 8) Space group: 155 --> 155 R32
+[2025-09-19 14:40:20,109][gen_pyxtal][INFO] Structure ID      8: (8, 8) Space group: 121 --> 121 I-42m
+[2025-09-19 14:40:20,197][gen_pyxtal][INFO] Structure ID      9: (8, 8) Space group: 168 --> 183 P6mm
+[2025-09-19 14:40:20,275][gen_pyxtal][INFO] Structure ID     10: (8, 8) Space group:  92 -->  92 P4_12_12
+[2025-09-19 14:40:20,309][gen_pyxtal][INFO] Structure ID     11: (8, 8) Space group: 100 --> 100 P4bm
+[2025-09-19 14:40:20,589][gen_pyxtal][INFO] Structure ID     12: (8, 8) Space group: 108 --> 108 I4cm
+[2025-09-19 14:40:20,729][gen_pyxtal][INFO] Structure ID     13: (8, 8) Space group: 141 --> 141 I4_1/amd
+[2025-09-19 14:40:20,820][gen_pyxtal][INFO] Structure ID     14: (8, 8) Space group:  32 -->  32 Pba2
+[2025-09-19 14:40:20,879][gen_pyxtal][INFO] Structure ID     15: (8, 8) Space group: 190 --> 190 P-62c
+[2025-09-19 14:40:21,050][gen_pyxtal][INFO] Structure ID     16: (8, 8) Space group:  41 -->  41 Aea2
+[2025-09-19 14:40:21,124][gen_pyxtal][INFO] Structure ID     17: (8, 8) Space group:  32 -->  32 Pba2
+[2025-09-19 14:40:21,394][gen_pyxtal][INFO] Structure ID     18: (8, 8) Space group: 131 --> 131 P4_2/mmc
+[2025-09-19 14:40:21,484][gen_pyxtal][INFO] Structure ID     19: (8, 8) Space group:  11 -->  11 P2_1/m
+[2025-09-19 14:40:30,169][gen_pyxtal][INFO] Structure ID     20: (8, 8) Space group: 193 --> 193 P6_3/mcm
+[2025-09-19 14:40:30,333][gen_pyxtal][INFO] Structure ID     21: (8, 8) Space group: 140 --> 140 I4/mcm
+[2025-09-19 14:40:30,455][gen_pyxtal][INFO] Structure ID     22: (8, 8) Space group: 107 --> 107 I4mm
+[2025-09-19 14:40:30,520][gen_pyxtal][INFO] Structure ID     23: (8, 8) Space group:  34 -->  34 Pnn2
+[2025-09-19 14:40:30,580][gen_pyxtal][INFO] Structure ID     24: (8, 8) Space group: 106 --> 106 P4_2bc
+[2025-09-19 14:40:30,702][gen_pyxtal][INFO] Structure ID     25: (8, 8) Space group:  42 -->  42 Fmm2
+[2025-09-19 14:40:30,828][gen_pyxtal][INFO] Structure ID     26: (8, 8) Space group: 155 --> 155 R32
+[2025-09-19 14:40:30,997][gen_pyxtal][INFO] Structure ID     27: (8, 8) Space group:  35 -->  35 Cmm2
+[2025-09-19 14:40:31,053][gen_pyxtal][INFO] Structure ID     28: (8, 8) Space group: 176 --> 176 P6_3/m
+[2025-09-19 14:40:31,158][gen_pyxtal][INFO] Structure ID     29: (8, 8) Space group: 162 --> 191 P6/mmm
+[2025-09-19 14:40:31,332][gen_pyxtal][INFO] Structure ID     30: (8, 8) Space group: 112 --> 131 P4_2/mmc
+[2025-09-19 14:40:31,582][gen_pyxtal][INFO] Structure ID     31: (8, 8) Space group: 222 --> 221 Pm-3m
+[2025-09-19 14:40:31,890][gen_pyxtal][INFO] Structure ID     32: (8, 8) Space group:  90 --> 127 P4/mbm
+[2025-09-19 14:40:31,984][gen_pyxtal][INFO] Structure ID     33: (8, 8) Space group:   7 -->   7 Pc
+[2025-09-19 14:40:32,065][gen_pyxtal][INFO] Structure ID     34: (8, 8) Space group: 135 --> 135 P4_2/mbc
+[2025-09-19 14:40:32,261][gen_pyxtal][INFO] Structure ID     35: (8, 8) Space group:  51 -->  51 Pmma
+[2025-09-19 14:40:32,334][gen_pyxtal][INFO] Structure ID     36: (8, 8) Space group: 101 --> 101 P4_2cm
+[2025-09-19 14:40:32,453][gen_pyxtal][INFO] Structure ID     37: (8, 8) Space group:  38 -->  38 Amm2
+[2025-09-19 14:40:32,731][gen_pyxtal][INFO] Structure ID     38: (8, 8) Space group:  48 -->  48 Pnnn
+[2025-09-19 14:40:32,773][gen_pyxtal][INFO] Structure ID     39: (8, 8) Space group: 198 --> 198 P2_13
+[2025-09-19 14:40:32,851][gen_pyxtal][INFO] Structure ID     40: (8, 8) Space group:  66 -->  66 Cccm
+[2025-09-19 14:40:32,890][gen_pyxtal][INFO] Structure ID     41: (8, 8) Space group:  52 -->  52 Pnna
+[2025-09-19 14:40:33,291][gen_pyxtal][INFO] Structure ID     42: (8, 8) Space group: 177 --> 191 P6/mmm
+[2025-09-19 14:40:33,809][gen_pyxtal][INFO] Structure ID     43: (8, 8) Space group:   1 -->   1 P1
+[2025-09-19 14:40:33,888][gen_pyxtal][INFO] Structure ID     44: (8, 8) Space group: 108 --> 108 I4cm
+[2025-09-19 14:40:33,934][gen_pyxtal][INFO] Structure ID     45: (8, 8) Space group:  48 -->  48 Pnnn
+[2025-09-19 14:40:34,241][gen_pyxtal][INFO] Structure ID     46: (8, 8) Space group: 199 --> 199 I2_13
+[2025-09-19 14:40:34,367][gen_pyxtal][INFO] Structure ID     47: (8, 8) Space group:  23 -->  23 I222
+[2025-09-19 14:40:34,412][gen_pyxtal][INFO] Structure ID     48: (8, 8) Space group:  55 -->  55 Pbam
+[2025-09-19 14:40:34,721][gen_pyxtal][INFO] Structure ID     49: (8, 8) Space group: 121 --> 121 I-42m
+[2025-09-19 14:40:34,843][gen_pyxtal][INFO] Structure ID     50: (8, 8) Space group:  42 -->  42 Fmm2
+[2025-09-19 14:40:34,969][gen_pyxtal][INFO] Structure ID     51: (8, 8) Space group:  66 -->  66 Cccm
+[2025-09-19 14:40:35,040][gen_pyxtal][INFO] Structure ID     52: (8, 8) Space group:  41 -->  41 Aea2
+[2025-09-19 14:40:35,164][gen_pyxtal][INFO] Structure ID     53: (8, 8) Space group: 121 --> 121 I-42m
+[2025-09-19 14:40:58,045][gen_pyxtal][INFO] Structure ID     54: (8, 8) Space group: 217 --> 217 I-43m
+[2025-09-19 14:40:58,572][gen_pyxtal][INFO] Structure ID     55: (8, 8) Space group:  21 -->  21 C222
+[2025-09-19 14:40:58,769][gen_pyxtal][INFO] Structure ID     56: (8, 8) Space group: 102 --> 102 P4_2nm
+[2025-09-19 14:40:59,015][gen_pyxtal][INFO] Structure ID     57: (8, 8) Space group: 189 --> 189 P-62m
+[2025-09-19 14:40:59,227][gen_pyxtal][INFO] Structure ID     58: (8, 8) Space group:  11 -->  11 P2_1/m
+[2025-09-19 14:40:59,312][gen_pyxtal][INFO] Structure ID     59: (8, 8) Space group:  45 -->  45 Iba2
+[2025-09-19 14:40:59,397][gen_pyxtal][INFO] Structure ID     60: (8, 8) Space group: 157 --> 157 P31m
+[2025-09-19 14:40:59,487][gen_pyxtal][INFO] Structure ID     61: (8, 8) Space group:  77 -->  77 P4_2
+[2025-09-19 14:40:59,543][gen_pyxtal][INFO] Structure ID     62: (8, 8) Space group: 208 --> 224 Pn-3m
+[2025-09-19 14:40:59,626][gen_pyxtal][INFO] Structure ID     63: (8, 8) Space group: 109 --> 109 I4_1md
+[2025-09-19 14:40:59,716][gen_pyxtal][INFO] Structure ID     64: (8, 8) Space group:  15 -->  15 C2/c
+[2025-09-19 14:40:59,811][gen_pyxtal][INFO] Structure ID     65: (8, 8) Space group:  91 -->  91 P4_122
+[2025-09-19 14:40:59,934][gen_pyxtal][INFO] Structure ID     66: (8, 8) Space group:  15 -->  15 C2/c
+[2025-09-19 14:40:59,978][gen_pyxtal][INFO] Structure ID     67: (8, 8) Space group:  53 -->  53 Pmna
+[2025-09-19 14:41:00,030][gen_pyxtal][INFO] Structure ID     68: (8, 8) Space group:  86 -->  86 P4_2/n
+[2025-09-19 14:41:00,083][gen_pyxtal][INFO] Structure ID     69: (8, 8) Space group: 117 --> 117 P-4b2
+[2025-09-19 14:41:00,161][gen_pyxtal][INFO] Structure ID     70: (8, 8) Space group: 108 --> 108 I4cm
+[2025-09-19 14:41:00,371][gen_pyxtal][INFO] Structure ID     71: (8, 8) Space group:  64 -->  64 Cmce
+[2025-09-19 14:41:00,574][gen_pyxtal][INFO] Structure ID     72: (8, 8) Space group: 201 --> 221 Pm-3m
+[2025-09-19 14:41:00,631][gen_pyxtal][INFO] Structure ID     73: (8, 8) Space group: 190 --> 190 P-62c
+[2025-09-19 14:41:03,098][gen_pyxtal][INFO] Structure ID     74: (8, 8) Space group: 193 --> 191 P6/mmm
+[2025-09-19 14:41:03,241][gen_pyxtal][INFO] Structure ID     75: (8, 8) Space group:  49 -->  49 Pccm
+[2025-09-19 14:41:03,309][gen_pyxtal][INFO] Structure ID     76: (8, 8) Space group: 201 --> 221 Pm-3m
+[2025-09-19 14:41:04,282][gen_pyxtal][INFO] Structure ID     77: (8, 8) Space group: 147 --> 147 P-3
+[2025-09-19 14:41:04,373][gen_pyxtal][INFO] Structure ID     78: (8, 8) Space group:  64 -->  64 Cmce
+[2025-09-19 14:41:04,602][gen_pyxtal][INFO] Structure ID     79: (8, 8) Space group: 189 --> 189 P-62m
+[2025-09-19 14:41:04,773][gen_pyxtal][INFO] Structure ID     80: (8, 8) Space group: 166 --> 166 R-3m
+[2025-09-19 14:41:06,394][gen_pyxtal][INFO] Structure ID     81: (8, 8) Space group:  84 -->  84 P4_2/m
+[2025-09-19 14:41:06,480][gen_pyxtal][INFO] Structure ID     82: (8, 8) Space group:  68 -->  68 Ccce
+[2025-09-19 14:41:06,589][gen_pyxtal][INFO] Structure ID     83: (8, 8) Space group: 114 --> 114 P-42_1c
+[2025-09-19 14:41:06,729][gen_pyxtal][INFO] Structure ID     84: (8, 8) Space group: 213 --> 213 P4_132
+[2025-09-19 14:41:06,793][gen_pyxtal][INFO] Structure ID     85: (8, 8) Space group:  19 -->  19 P2_12_12_1
+[2025-09-19 14:41:06,868][gen_pyxtal][INFO] Structure ID     86: (8, 8) Space group:  53 -->  53 Pmna
+[2025-09-19 14:41:06,951][gen_pyxtal][INFO] Structure ID     87: (8, 8) Space group:  88 -->  88 I4_1/a
+[2025-09-19 14:41:07,585][gen_pyxtal][INFO] Structure ID     88: (8, 8) Space group: 206 --> 206 Ia-3
+[2025-09-19 14:41:07,731][gen_pyxtal][INFO] Structure ID     89: (8, 8) Space group: 168 --> 168 P6
+[2025-09-19 14:41:07,919][gen_pyxtal][INFO] Structure ID     90: (8, 8) Space group:  35 -->  35 Cmm2
+[2025-09-19 14:41:08,020][gen_pyxtal][INFO] Structure ID     91: (8, 8) Space group:  46 -->  46 Ima2
+[2025-09-19 14:41:08,124][gen_pyxtal][INFO] Structure ID     92: (8, 8) Space group: 128 --> 127 P4/mbm
+[2025-09-19 14:41:08,483][gen_pyxtal][INFO] Structure ID     93: (8, 8) Space group:  79 -->  79 I4
+[2025-09-19 14:41:08,570][gen_pyxtal][INFO] Structure ID     94: (8, 8) Space group:  67 -->  67 Cmme
+[2025-09-19 14:41:08,747][gen_pyxtal][INFO] Structure ID     95: (8, 8) Space group:  98 -->  98 I4_122
+[2025-09-19 14:41:08,899][gen_pyxtal][INFO] Structure ID     96: (8, 8) Space group:  35 -->  35 Cmm2
+[2025-09-19 14:41:09,027][gen_pyxtal][INFO] Structure ID     97: (8, 8) Space group:  45 -->  45 Iba2
+[2025-09-19 14:41:09,123][gen_pyxtal][INFO] Structure ID     98: (8, 8) Space group:  75 -->  75 P4
+[2025-09-19 14:41:09,197][gen_pyxtal][INFO] Structure ID     99: (8, 8) Space group:  96 -->  96 P4_32_12
+[2025-09-19 14:41:13,383][cryspy_init][INFO] Elapsed time for structure generation: 0:01:23.374136
+[2025-09-19 14:41:13,491][cryspy_restart][INFO] 
+
+
+Restart CrySPY 1.4.0b10
+
+
+[2025-09-19 14:41:13,493][cryspy_restart][INFO] read input, cryspy.in
+[2025-09-19 14:49:49,713][restart_interact][INFO] 
+Done all structures!
